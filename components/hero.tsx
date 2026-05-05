@@ -50,9 +50,9 @@ export function Hero() {
           {/* Trust indicators */}
           <dl className="mt-16 grid grid-cols-3 gap-6 border-t border-border pt-10">
             {[
-              { k: "12+", v: "Years at the Bar" },
-              { k: "08", v: "Practice Verticals" },
-              { k: "200+", v: "Matters Argued" },
+              { k: "9+", v: "Years at the Bar" },
+              { k: "12", v: "Practice Verticals" },
+              { k: "100+", v: "Matters Argued" },
             ].map((item) => (
               <div key={item.v}>
                 <dt className="font-serif text-3xl text-foreground md:text-4xl">{item.k}</dt>
