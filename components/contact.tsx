@@ -104,7 +104,7 @@ export function Contact() {
             <div className="mt-12 aspect-[16/9] w-full overflow-hidden border border-background/15 grayscale">
               <iframe
                 title="Quartz Legal Associates ‚Äî Lajpat Nagar, New Delhi"
-                src="https://www.google.com/maps?q=Lajpat%20Nagar%20Delhi&output=embed"
+                src="https://www.google.com/maps?q=A-117,Lajpat%20Nagar%201,New%20Delhi%20110024&output=embed"
                 className="h-full w-full"
                 loading="lazy"
               />
