@@ -51,7 +51,7 @@ export function Hero() {
           <dl className="mt-16 grid grid-cols-3 gap-6 border-t border-border pt-10">
             {[
               { k: "9+", v: "Years at the Bar" },
-              { k: "12", v: "Practice Verticals" },
+              { k: "8", v: "Practice Verticals" },
               { k: "100+", v: "Matters Argued" },
             ].map((item) => (
               <div key={item.v}>
