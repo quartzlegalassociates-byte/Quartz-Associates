@@ -2,7 +2,7 @@ import { cn } from "@/lib/utils"
 
 export const SOCIAL_LINKS = {
   whatsapp: "https://wa.me/917676909742",
-  instagram: "https://www.instagram.com/quartzlegalassociates",
+  instagram: "https://www.instagram.com/quartz_legal_associates",
   linkedin: "https://www.linkedin.com/company/quartzlegalassociates",
   facebook: "https://www.facebook.com/quartzlegalassociates",
 }
