@@ -172,7 +172,7 @@ export function Contact() {
               </div>
 
               <p className="mt-8 text-xs leading-relaxed text-background/50">
-                Submission of this form does not create an attorney‚Äìclient relationship. Please do not include
+                Submission of this form does not create an attorney‚client relationship. Please do not include
                 privileged or confidential information until such a relationship is formally established.
               </p>
 
@@ -182,7 +182,7 @@ export function Contact() {
                   disabled={status === "submitting"}
                   className="group inline-flex items-center gap-3 bg-accent px-8 py-4 text-[11px] uppercase tracking-[0.24em] text-accent-foreground transition-colors hover:bg-background hover:text-foreground disabled:opacity-60 disabled:cursor-not-allowed"
                 >
-                  {status === "submitting" ? "Sending‚Ä¶" : "Send Enquiry"}
+                  {status === "submitting" ? "Sending..." : "Send Enquiry"}
                   <span aria-hidden="true" className="transition-transform group-hover:translate-x-1">
                     ‚Üí
                   </span>
