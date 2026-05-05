@@ -4,14 +4,39 @@ import { useState } from "react"
 import { Mail, MapPin, Phone } from "lucide-react"
 import { Socials } from "@/components/socials"
 
-export function Contact() {
-  const [submitted, setSubmitted] = useState(false)
+// ‚úÖ Replace this with your Formspree form ID
+// Sign up at https://formspree.io ‚Üí New Form ‚Üí copy the endpoint ID
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/meengvvr"
 
-  function onSubmit(e: React.FormEvent<HTMLFormElement>) {
+export function Contact() {
+  const [status, setStatus] = useState<"idle" | "submitting" | "success" | "error">("idle")
+
+  async function onSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
-    setSubmitted(true)
-    setTimeout(() => setSubmitted(false), 6000)
-    e.currentTarget.reset()
+    setStatus("submitting")
+
+    const form = e.currentTarget
+    const data = new FormData(form)
+
+    try {
+      const res = await fetch(FORMSPREE_ENDPOINT, {
+        method: "POST",
+        body: data,
+        headers: { Accept: "application/json" },
+      })
+
+      if (res.ok) {
+        setStatus("success")
+        form.reset()
+        setTimeout(() => setStatus("idle"), 6000)
+      } else {
+        setStatus("error")
+        setTimeout(() => setStatus("idle"), 6000)
+      }
+    } catch {
+      setStatus("error")
+      setTimeout(() => setStatus("idle"), 6000)
+    }
   }
 
   return (
@@ -78,7 +103,7 @@ export function Contact() {
 
             <div className="mt-12 aspect-[16/9] w-full overflow-hidden border border-background/15 grayscale">
               <iframe
-                title="Quartz Legal Associates — Lajpat Nagar, New Delhi"
+                title="Quartz Legal Associates ‚Äî Lajpat Nagar, New Delhi"
                 src="https://www.openstreetmap.org/export/embed.html?bbox=77.235%2C28.563%2C77.245%2C28.572&layer=mapnik&marker=28.5675%2C77.2400"
                 className="h-full w-full"
                 loading="lazy"
@@ -147,23 +172,30 @@ export function Contact() {
               </div>
 
               <p className="mt-8 text-xs leading-relaxed text-background/50">
-                Submission of this form does not create an attorney–client relationship. Please do not include
+                Submission of this form does not create an attorney‚Äìclient relationship. Please do not include
                 privileged or confidential information until such a relationship is formally established.
               </p>
 
               <div className="mt-10 flex flex-col items-start gap-4 sm:flex-row sm:items-center sm:justify-between">
                 <button
                   type="submit"
-                  className="group inline-flex items-center gap-3 bg-accent px-8 py-4 text-[11px] uppercase tracking-[0.24em] text-accent-foreground transition-colors hover:bg-background hover:text-foreground"
+                  disabled={status === "submitting"}
+                  className="group inline-flex items-center gap-3 bg-accent px-8 py-4 text-[11px] uppercase tracking-[0.24em] text-accent-foreground transition-colors hover:bg-background hover:text-foreground disabled:opacity-60 disabled:cursor-not-allowed"
                 >
-                  Send Enquiry
+                  {status === "submitting" ? "Sending‚Ä¶" : "Send Enquiry"}
                   <span aria-hidden="true" className="transition-transform group-hover:translate-x-1">
-                    →
+                    ‚Üí
                   </span>
                 </button>
-                {submitted && (
+
+                {status === "success" && (
                   <p className="text-sm text-accent" role="status">
                     Thank you. We will revert within one business day.
+                  </p>
+                )}
+                {status === "error" && (
+                  <p className="text-sm text-red-400" role="alert">
+                    Something went wrong. Please try again or email us directly.
                   </p>
                 )}
               </div>
@@ -201,3 +233,4 @@ function Field({
     </div>
   )
 }
+
