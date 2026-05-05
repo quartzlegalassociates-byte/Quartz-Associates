@@ -184,7 +184,7 @@ export function Contact() {
                 >
                   {status === "submitting" ? "Sending..." : "Send Enquiry"}
                   <span aria-hidden="true" className="transition-transform group-hover:translate-x-1">
-                    ‚Üí
+                  
                   </span>
                 </button>
 
