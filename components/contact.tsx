@@ -76,10 +76,10 @@ export function Contact() {
                 <div>
                   <p className="text-[11px] uppercase tracking-[0.24em] text-accent">Email</p>
                   <a
-                    href="mailto:abhishek.kumar2015c@gmail.com"
+                    href="mailto:abhishek.kumar@quartzlegalassociates.in"
                     className="mt-2 inline-block font-serif text-lg hover:text-accent"
                   >
-                    abhishek.kumar2015c@gmail.com
+                    abhishek.kumar@quartzlegalassociates.in
                   </a>
                 </div>
               </li>
