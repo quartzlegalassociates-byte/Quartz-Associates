@@ -25,7 +25,7 @@ export const articles: Article[] = [
       "A detailed analysis of the Real Estate (Regulation and Development) Act, 2016, covering its objectives, project registration, disclosure requirements, protection against diversion of project funds, promoter obligations, homebuyer rights, remedies and implementation challenges.",
     readTime: "12 min read",
     author: "Advocate Abhishek Kumar",
-    sections: [
+    sections: [ 
       {
         heading: "Introduction",
         paragraphs: [
