@@ -1004,4 +1004,4 @@ export const articles: Article[] = [
       },
     ],
   },
-  
+]
