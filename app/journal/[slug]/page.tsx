@@ -3,9 +3,9 @@ import { notFound } from "next/navigation"
 import { articles, getArticleBySlug } from "@/lib/articles"
 
 type ArticlePageProps = {
-  params: {
+  params: Promise<{
     slug: string
-  }
+  }>
 }
 
 export function generateStaticParams() {
@@ -14,8 +14,9 @@ export function generateStaticParams() {
   }))
 }
 
-export function generateMetadata({ params }: ArticlePageProps) {
-  const article = getArticleBySlug(params.slug)
+export async function generateMetadata({ params }: ArticlePageProps) {
+  const { slug } = await params
+  const article = getArticleBySlug(slug)
 
   if (!article) {
     return {
@@ -30,8 +31,9 @@ export function generateMetadata({ params }: ArticlePageProps) {
   }
 }
 
-export default function ArticlePage({ params }: ArticlePageProps) {
-  const article = getArticleBySlug(params.slug)
+export default async function ArticlePage({ params }: ArticlePageProps) {
+  const { slug } = await params
+  const article = getArticleBySlug(slug)
 
   if (!article) {
     notFound()
@@ -39,8 +41,6 @@ export default function ArticlePage({ params }: ArticlePageProps) {
 
   return (
     <main className="min-h-screen bg-background text-foreground">
-
-      {/* Header */}
       <header className="border-b border-border">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-8 lg:px-10">
           <Link
@@ -59,22 +59,12 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         </div>
       </header>
 
-      {/* Article Header */}
       <section className="border-b border-border py-20 lg:py-28">
         <div className="mx-auto max-w-5xl px-6 lg:px-10">
-
           <div className="mb-8 flex flex-wrap items-center gap-x-5 gap-y-3 text-[11px] uppercase tracking-[0.24em]">
-            <span className="text-accent">
-              {article.category}
-            </span>
-
-            <span className="text-muted-foreground">
-              {article.date}
-            </span>
-
-            <span className="text-muted-foreground">
-              {article.readTime}
-            </span>
+            <span className="text-accent">{article.category}</span>
+            <span className="text-muted-foreground">{article.date}</span>
+            <span className="text-muted-foreground">{article.readTime}</span>
           </div>
 
           <h1 className="max-w-5xl font-serif text-4xl leading-[1.05] tracking-tight md:text-6xl lg:text-7xl">
@@ -94,20 +84,16 @@ export default function ArticlePage({ params }: ArticlePageProps) {
               {article.author}
             </p>
           </div>
-
         </div>
       </section>
 
-      {/* Article Body */}
       <article className="py-16 lg:py-24">
         <div className="mx-auto max-w-3xl px-6 lg:px-10">
-
           {article.sections.map((section, index) => (
             <section
               key={`${article.slug}-${index}`}
               className={index === 0 ? "" : "mt-14"}
             >
-
               {section.heading && (
                 <h2 className="mb-6 font-serif text-3xl leading-tight md:text-4xl">
                   {section.heading}
@@ -124,15 +110,11 @@ export default function ArticlePage({ params }: ArticlePageProps) {
                   </p>
                 ))}
               </div>
-
             </section>
           ))}
 
-          {/* Article Footer */}
           <div className="mt-20 border-t border-border pt-8">
-
             <div className="flex flex-col gap-6 sm:flex-row sm:items-center sm:justify-between">
-
               <div>
                 <p className="text-[11px] uppercase tracking-[0.22em] text-muted-foreground">
                   Quartz Legal Journal
@@ -149,18 +131,13 @@ export default function ArticlePage({ params }: ArticlePageProps) {
               >
                 ← More Articles
               </Link>
-
             </div>
-
           </div>
-
         </div>
       </article>
 
-      {/* Consultation CTA */}
       <section className="border-t border-border bg-foreground py-20 text-background lg:py-24">
         <div className="mx-auto max-w-5xl px-6 lg:px-10">
-
           <p className="text-[11px] uppercase tracking-[0.28em] opacity-60">
             Need legal assistance?
           </p>
@@ -180,10 +157,8 @@ export default function ArticlePage({ params }: ArticlePageProps) {
           >
             Schedule Consultation →
           </Link>
-
         </div>
       </section>
-
     </main>
   )
 }
