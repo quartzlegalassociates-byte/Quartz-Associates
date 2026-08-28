@@ -1000,8 +1000,13 @@ export const articles: Article[] = [
           "The ultimate success of the IBC will depend upon the continued strengthening of the insolvency ecosystem, adequate judicial infrastructure, efficient functioning of adjudicating authorities, professional conduct by insolvency professionals and responsible participation by creditors and resolution applicants.",
 
           "A robust insolvency framework is indispensable to a modern economy. By seeking to provide a structured and time-bound mechanism for resolving financial distress, the IBC has become one of the most important pillars of India's contemporary commercial law framework."
+        
         ],
       },
     ],
   },
 ]
+
+export function getArticleBySlug(slug: string): Article | undefined {
+  return articles.find((article) => article.slug === slug)
+}
