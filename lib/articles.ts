@@ -596,11 +596,12 @@ export const articles: Article[] = [
           "For businesses, the value of a legal system is ultimately measured not simply by the existence of legal rights but by the ability to enforce those rights effectively. Delayed justice can itself become an economic cost.",
           "The Commercial Courts Act seeks to address this problem by creating an institutional and procedural framework designed specifically for commercial disputes. Its long-term success, however, will depend upon effective implementation, adequate judicial infrastructure, responsible litigation practices and consistent adherence to the objective of speedy and effective dispute resolution.",
           "A strong commercial justice system is therefore not merely a judicial reform. It is an essential component of a modern economy, investor confidence and the rule of law.",
-        ],
+         ],
       },
     ],
   },
-{
+
+  {
     slug: "insolvency-bankruptcy-code-2016-new-framework-insolvency-resolution-india",
     title:
       "Insolvency and Bankruptcy Code, 2016: A New Framework for Insolvency Resolution in India",
@@ -615,8 +616,11 @@ export const articles: Article[] = [
         heading: "Introduction",
         paragraphs: [
           "Insolvency is a critical issue for any economy because the failure of a business to meet its financial obligations can have consequences far beyond the debtor itself. It can affect employees, creditors, lenders, suppliers, investors and other stakeholders. An effective insolvency framework is therefore essential for maintaining confidence in the financial and commercial system.",
+
           "India historically had a fragmented insolvency regime governed by several statutes and administered through different forums. The absence of a unified and time-bound mechanism often resulted in significant delays in the resolution of financially distressed businesses and the recovery of value for creditors.",
+
           "To address these structural deficiencies, Parliament enacted the Insolvency and Bankruptcy Code, 2016 (\"IBC\" or \"the Code\"). The IBC sought to consolidate and amend the laws relating to insolvency and bankruptcy and establish a comprehensive framework for insolvency resolution of corporate persons, partnership firms and individuals, subject to the provisions of the Code.",
+
           "The enactment of the IBC marked a fundamental shift in India's approach to insolvency—from a fragmented and predominantly recovery-oriented system towards a structured process focused on time-bound resolution, preservation of value and balancing the interests of stakeholders.",
         ],
       },
@@ -625,10 +629,15 @@ export const articles: Article[] = [
         heading: "What is Insolvency?",
         paragraphs: [
           "Insolvency generally refers to a financial condition in which an individual or entity is unable to meet its financial obligations as they become due.",
+
           "For a business, insolvency may arise because of inadequate cash flow, excessive debt, declining revenues, poor financial management, adverse market conditions or other circumstances that make it difficult to discharge its liabilities.",
+
           "Insolvency, however, should not be confused with bankruptcy.",
+
           "Insolvency describes a financial condition, whereas bankruptcy is a legal process or status arising under the applicable legal framework.",
+
           "A business may therefore experience financial distress without immediately undergoing a formal insolvency proceeding. The objective of an insolvency law is to provide a mechanism through which such financial distress can be addressed in an organised manner.",
+
           "The IBC provides this mechanism for eligible entities and individuals through processes prescribed by the Code.",
         ],
       },
@@ -637,9 +646,13 @@ export const articles: Article[] = [
         heading: "What is Bankruptcy?",
         paragraphs: [
           "Bankruptcy is a legal process through which the financial affairs of a person or entity unable to meet its obligations are dealt with under the applicable insolvency framework.",
+
           "The concept traditionally involves identifying the debtor's assets and liabilities and providing a legal mechanism for dealing with outstanding debts.",
+
           "Under India's present insolvency framework, the IBC distinguishes between corporate insolvency and insolvency and bankruptcy processes applicable to individuals and partnership firms.",
+
           "For corporate persons, the principal mechanism is the Corporate Insolvency Resolution Process (CIRP), followed, where resolution is not achieved, by liquidation in accordance with the Code.",
+
           "Thus, insolvency should not simply be viewed as the end of a business. One of the fundamental objectives of the IBC is to provide a mechanism through which a financially distressed but viable business may be rescued and its value preserved.",
         ],
       },
@@ -648,16 +661,27 @@ export const articles: Article[] = [
         heading: "Why Was the Insolvency and Bankruptcy Code Enacted?",
         paragraphs: [
           "Before the IBC came into force, India's insolvency framework was spread across several statutes.",
+
           "Important legislation included:",
+
           "• the Sick Industrial Companies (Special Provisions) Act, 1985 (SICA);",
+
           "• the Companies Act, 1956;",
+
           "• the Recovery of Debts Due to Banks and Financial Institutions Act, 1993;",
+
           "• the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act);",
-          "• the Presidency-towns Insolvency Act, 1909; and",
+
+          "• the Presidency-towns Insolvency Act, 1909;",
+
           "• the Provincial Insolvency Act, 1920.",
+
           "Different statutes dealt with different aspects of insolvency, recovery and restructuring, often through different adjudicatory mechanisms.",
+
           "This fragmented structure created several difficulties. Proceedings could continue for prolonged periods, creditors could face substantial delays in recovering their dues, and the absence of a unified insolvency process made resolution of financial distress more difficult.",
+
           "The need for comprehensive reform was therefore widely recognised.",
+
           "The IBC sought to replace this fragmented framework with a more coherent insolvency regime.",
         ],
       },
@@ -666,17 +690,29 @@ export const articles: Article[] = [
         heading: "Limitations of the Earlier SICA Framework",
         paragraphs: [
           "One of the important pieces of legislation dealing with corporate financial distress before the IBC was the Sick Industrial Companies (Special Provisions) Act, 1985.",
+
           "SICA was primarily concerned with the revival and rehabilitation of sick industrial companies.",
+
           "However, the framework faced several limitations.",
+
           "Its scope was restricted and did not provide a comprehensive insolvency mechanism applicable to all companies and categories of debtors. The process could also become prolonged, while creditors did not always have an effective mechanism for timely recovery or meaningful participation in the resolution process.",
+
           "The experience under SICA demonstrated that merely providing a mechanism for rehabilitation of financially distressed companies was insufficient.",
+
           "A modern insolvency regime needed to address not only the possibility of revival but also:",
+
           "• creditor rights;",
+
           "• preservation of enterprise value;",
+
           "• timely decision-making;",
+
           "• restructuring of debt;",
+
           "• liquidation where resolution was not viable; and",
+
           "• distribution of the debtor's assets according to a clear statutory framework.",
+
           "The IBC was introduced against this background.",
         ],
       },
@@ -685,15 +721,25 @@ export const articles: Article[] = [
         heading: "The Objectives of the IBC",
         paragraphs: [
           "The IBC represents a fundamental change in the philosophy of insolvency law in India.",
+
           "Its objectives include:",
+
           "1. Time-bound insolvency resolution;",
+
           "2. Maximisation of the value of assets;",
+
           "3. Promotion of entrepreneurship;",
+
           "4. Availability of credit;",
+
           "5. Balancing the interests of all stakeholders; and",
+
           "6. Facilitating an efficient mechanism for resolution and, where resolution is not possible, liquidation.",
+
           "The Code therefore attempts to ensure that insolvency proceedings do not become endless recovery proceedings.",
+
           "The emphasis is on determining, within a statutory framework, whether the debtor can be rescued and, if so, how that rescue can be achieved.",
+
           "Where revival is not possible, liquidation provides an orderly alternative.",
         ],
       },
@@ -709,7 +755,9 @@ export const articles: Article[] = [
         heading: "1. Insolvency and Bankruptcy Board of India",
         paragraphs: [
           "The Insolvency and Bankruptcy Board of India (IBBI) is the principal regulator under the insolvency framework.",
+
           "It regulates insolvency professionals, insolvency professional agencies and information utilities and performs other functions assigned to it under the Code and the regulations made thereunder.",
+
           "The establishment of a specialised regulator was an important feature of India's new insolvency architecture.",
         ],
       },
@@ -718,7 +766,9 @@ export const articles: Article[] = [
         heading: "2. Insolvency Professionals",
         paragraphs: [
           "Insolvency professionals (IPs) play a central role in the insolvency resolution process.",
+
           "They are responsible for managing the affairs of the corporate debtor during the relevant stages of the insolvency process and performing functions prescribed by the Code.",
+
           "An insolvency professional is expected to maintain independence and act in accordance with the statutory framework.",
         ],
       },
@@ -727,7 +777,9 @@ export const articles: Article[] = [
         heading: "3. Information Utilities",
         paragraphs: [
           "The IBC also introduced the concept of Information Utilities.",
+
           "Information utilities are intended to collect, authenticate and provide access to financial information in accordance with the statutory framework.",
+
           "Reliable financial information is particularly important in insolvency proceedings because disputes regarding the existence and amount of debt can significantly delay resolution.",
         ],
       },
@@ -736,8 +788,11 @@ export const articles: Article[] = [
         heading: "4. Adjudicating Authorities",
         paragraphs: [
           "The IBC provides for specialised adjudicatory mechanisms.",
+
           "For corporate persons, the National Company Law Tribunal (NCLT) acts as the adjudicating authority for insolvency proceedings under the Code.",
+
           "Appeals from orders of the NCLT lie before the National Company Law Appellate Tribunal (NCLAT), subject to the provisions of the Code.",
+
           "This specialised adjudicatory structure was intended to facilitate more efficient handling of insolvency matters.",
         ],
       },
@@ -746,9 +801,13 @@ export const articles: Article[] = [
         heading: "Corporate Insolvency Resolution Process",
         paragraphs: [
           "One of the most important features of the IBC is the Corporate Insolvency Resolution Process (CIRP).",
+
           "CIRP is a statutory process through which the financial distress of an eligible corporate debtor is addressed.",
+
           "A CIRP may be initiated by a financial creditor, an operational creditor, or the corporate debtor itself, subject to the requirements of the Code.",
+
           "Once the NCLT admits an application and initiates the CIRP, significant consequences follow.",
+
           "These include the commencement of the moratorium, appointment of an Interim Resolution Professional (IRP), constitution of the Committee of Creditors (CoC) and commencement of the resolution process in accordance with the Code.",
         ],
       },
@@ -757,14 +816,23 @@ export const articles: Article[] = [
         heading: "Role of the Interim Resolution Professional",
         paragraphs: [
           "Following commencement of CIRP, an Interim Resolution Professional is appointed in accordance with the Code.",
+
           "The IRP takes control of the management of the affairs of the corporate debtor in the manner prescribed under the IBC and performs several important functions.",
+
           "These include:",
+
           "• collecting information relating to the assets, finances and operations of the corporate debtor;",
+
           "• receiving and collating claims submitted by creditors;",
+
           "• taking control and custody of relevant assets;",
+
           "• preserving the value of the corporate debtor's property;",
+
           "• constituting the Committee of Creditors; and",
+
           "• managing the operations of the corporate debtor as a going concern, where required by the Code.",
+
           "The process is therefore not simply about recovering money from a defaulting company. It is also about preserving the business and maximising the possibility of a successful resolution.",
         ],
       },
@@ -773,10 +841,15 @@ export const articles: Article[] = [
         heading: "Committee of Creditors",
         paragraphs: [
           "The Committee of Creditors (CoC) is one of the most important institutions within the CIRP framework.",
+
           "Broadly, the CoC comprises financial creditors of the corporate debtor in accordance with the Code.",
+
           "The CoC evaluates resolution proposals and exercises powers assigned to it under the statutory framework.",
+
           "A prospective resolution applicant may submit a resolution plan in accordance with the Code and applicable regulations.",
+
           "The CoC considers the resolution plan on the basis of the statutory requirements and commercial considerations.",
+
           "The Code consequently gives financial creditors a central role in determining whether and how a distressed company should be resolved.",
         ],
       },
@@ -785,8 +858,11 @@ export const articles: Article[] = [
         heading: "Moratorium",
         paragraphs: [
           "The declaration of a moratorium is another important feature of CIRP.",
+
           "Subject to the provisions of the Code, the moratorium restricts certain proceedings and actions against the corporate debtor during the prescribed period.",
+
           "The objective is to provide the corporate debtor with a period of legal protection during which the resolution process can take place without individual enforcement actions undermining the collective insolvency process.",
+
           "The moratorium is therefore an important component of the collective nature of insolvency proceedings under the IBC.",
         ],
       },
@@ -795,10 +871,15 @@ export const articles: Article[] = [
         heading: "Resolution or Liquidation",
         paragraphs: [
           "The IBC adopts a resolution-first approach.",
+
           "The fundamental objective of CIRP is to find a viable resolution for the corporate debtor rather than immediately proceed towards liquidation.",
+
           "If an eligible resolution plan satisfies the statutory requirements and is approved in accordance with the Code, the corporate debtor may continue under the terms of the approved resolution plan.",
+
           "However, where resolution fails or the circumstances prescribed by the Code arise, the corporate debtor may proceed into liquidation.",
+
           "Liquidation involves the realisation and distribution of the assets of the corporate debtor in accordance with the statutory framework.",
+
           "The Code therefore provides a structured alternative where revival of the business is no longer commercially or legally feasible.",
         ],
       },
@@ -807,10 +888,15 @@ export const articles: Article[] = [
         heading: "Time-Bound Resolution",
         paragraphs: [
           "One of the most important innovations of the IBC is its emphasis on time-bound resolution.",
+
           "The underlying principle is that the value of a distressed business may deteriorate rapidly if insolvency proceedings continue indefinitely.",
+
           "A company that may be viable today can become commercially unviable after several years of litigation and uncertainty.",
+
           "Time is therefore an important economic consideration in insolvency proceedings.",
+
           "The IBC establishes statutory timelines for CIRP, subject to extensions and exclusions permitted under the Code and applicable judicial interpretation.",
+
           "The objective is to ensure that insolvency does not become an indefinite process.",
         ],
       },
@@ -819,9 +905,13 @@ export const articles: Article[] = [
         heading: "Shift from Debtor-in-Possession to Creditor-in-Control",
         paragraphs: [
           "The IBC also brought about a significant change in the approach to corporate insolvency.",
+
           "Under the earlier framework, the management of a financially distressed company could continue to exercise significant control during certain restructuring processes.",
+
           "Under CIRP, once the process is initiated, the management of the corporate debtor is displaced in accordance with the Code and the affairs of the company are managed by the insolvency professional.",
+
           "The Committee of Creditors then plays a central role in the resolution process.",
+
           "This represents a significant movement towards a creditor-driven insolvency resolution framework.",
         ],
       },
@@ -830,9 +920,13 @@ export const articles: Article[] = [
         heading: "Impact of the IBC",
         paragraphs: [
           "The enactment of the IBC has had a substantial impact on India's insolvency landscape.",
+
           "It has created a common framework for insolvency resolution and brought greater institutional structure to a process that was previously fragmented across multiple laws and forums.",
+
           "The Code has also strengthened the position of creditors by providing them with a collective mechanism for addressing defaults.",
+
           "At the same time, the IBC has contributed to the development of a specialised insolvency profession and a growing body of jurisprudence concerning financial and operational creditors, resolution plans, liquidation, avoidance transactions, moratoriums and the powers of the Committee of Creditors.",
+
           "The Code has consequently become an important component of India's commercial and financial legal framework.",
         ],
       },
@@ -841,16 +935,27 @@ export const articles: Article[] = [
         heading: "Challenges Under the IBC",
         paragraphs: [
           "Despite its transformative potential, the IBC has also faced practical challenges.",
+
           "These include:",
+
           "• delays arising from litigation before adjudicating and appellate authorities;",
+
           "• challenges in obtaining timely resolution;",
+
           "• difficulties in finding suitable resolution applicants;",
+
           "• valuation and asset-realisation issues;",
+
           "• disputes concerning claims;",
+
           "• challenges involving avoidance transactions;",
+
           "• delays in liquidation and distribution; and",
+
           "• the increasing complexity of insolvency litigation.",
+
           "These challenges highlight an important point: a time-bound statute requires a time-conscious institutional ecosystem.",
+
           "The effectiveness of the IBC therefore depends not only upon the statutory provisions but also upon the functioning of the NCLT and NCLAT, insolvency professionals, creditors, resolution applicants, lawyers and other stakeholders.",
         ],
       },
@@ -859,15 +964,25 @@ export const articles: Article[] = [
         heading: "IBC and Ease of Doing Business",
         paragraphs: [
           "A predictable insolvency regime is an important component of a healthy business environment.",
+
           "Investors and lenders need confidence that, if a borrower defaults, there is a structured mechanism for resolving the financial distress and maximising the recovery of value.",
+
           "Similarly, entrepreneurs need a legal framework that permits genuine business failure to be dealt with in an orderly manner rather than allowing financial distress to result in indefinite litigation.",
+
           "The IBC seeks to create precisely such a framework.",
+
           "An effective insolvency regime can therefore contribute to:",
+
           "• greater credit discipline;",
+
           "• improved lender confidence;",
+
           "• better allocation of capital;",
+
           "• preservation of viable businesses;",
+
           "• faster resolution of financial distress; and",
+
           "• a stronger overall commercial ecosystem.",
         ],
       },
@@ -876,19 +991,17 @@ export const articles: Article[] = [
         heading: "Conclusion",
         paragraphs: [
           "The Insolvency and Bankruptcy Code, 2016 represents a fundamental transformation of India's insolvency law.",
+
           "Before the IBC, insolvency-related matters were governed by a fragmented collection of statutes and administered through different mechanisms. This often resulted in delays, uncertainty and erosion of the value of distressed businesses.",
+
           "The IBC introduced a comprehensive institutional and procedural framework built around time-bound resolution, creditor participation, professional management, value maximisation and an orderly liquidation mechanism where resolution is not possible.",
+
           "Perhaps the most significant change brought by the Code is the shift in perspective. Insolvency is no longer viewed merely as a problem of recovering money from a distressed debtor. It is a process through which the economic value of the enterprise and the interests of its stakeholders are sought to be addressed collectively.",
+
           "The ultimate success of the IBC will depend upon the continued strengthening of the insolvency ecosystem, adequate judicial infrastructure, efficient functioning of adjudicating authorities, professional conduct by insolvency professionals and responsible participation by creditors and resolution applicants.",
+
           "A robust insolvency framework is indispensable to a modern economy. By seeking to provide a structured and time-bound mechanism for resolving financial distress, the IBC has become one of the most important pillars of India's contemporary commercial law framework.",
         ],
       },
     ],
- },
-],
-
-export function getArticleBySlug(slug: string) {
-
-return articles.find((article) => article.slug === slug)
-
-}
+  },
