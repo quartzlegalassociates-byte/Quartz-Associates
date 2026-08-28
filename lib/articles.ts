@@ -371,9 +371,6 @@ export const articles: Article[] = [
       },
     ],
   },
-]
-
-  },
 
   {
     slug: "commercial-courts-act-2015-transforming-resolution-commercial-disputes-india",
