@@ -1005,7 +1005,6 @@ export const articles: Article[] = [
       },
     ],
   },
-]
 {
   slug: "right-to-privacy-india-puttaswamy-judgment-article-21-aadhaar",
   title:
@@ -1335,6 +1334,8 @@ export const articles: Article[] = [
     }
   ]
 },
+]
+
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((article) => article.slug === slug)
 }
