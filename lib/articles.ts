@@ -600,11 +600,7 @@ export const articles: Article[] = [
       },
     ],
   },
-
-export function getArticleBySlug(slug: string) {
-  return articles.find((article) => article.slug === slug)
-}
-  {
+{
     slug: "insolvency-bankruptcy-code-2016-new-framework-insolvency-resolution-india",
     title:
       "Insolvency and Bankruptcy Code, 2016: A New Framework for Insolvency Resolution in India",
