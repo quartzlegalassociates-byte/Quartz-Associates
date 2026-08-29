@@ -2798,7 +2798,1093 @@ export const articles: Article[] = [
     }
   ]
 },
+  
+{
+  slug: "commercial-courts-india-jurisdiction-procedure-remedies",
+  title: "Commercial Courts in India: Jurisdiction, Procedure & Remedies",
+  category: "Commercial & Corporate Litigation",
+  date: "29 August 2026",
+  excerpt:
+    "A comprehensive guide to Commercial Courts in India covering jurisdiction, specified value, pre-institution mediation, procedure, interim relief, summary judgment, appeals and remedies.",
+  readTime: "25 min read",
+  author: "Advocate Abhishek Kumar",
+
+  sections: [
+    {
+      heading: "1. Introduction",
+      paragraphs: [
+        "Commercial Courts in India are specialised courts established under the Commercial Courts Act, 2015 to adjudicate defined categories of \"commercial disputes\" that meet a statutory monetary threshold known as \"specified value.\" They operate at the district level, as Commercial Divisions of High Courts exercising ordinary original civil jurisdiction, and as Commercial Appellate Divisions for appeals, and they follow a modified version of the Code of Civil Procedure, 1908 designed for speed, procedural discipline and predictability.",
+
+        "For a business, this is not an academic distinction. Whether a dispute is heard by a Commercial Court or an ordinary civil court affects the timelines within which a written statement must be filed, whether pre-suit mediation is mandatory, whether summary judgment is available without a full trial, what disclosure obligations attach to both sides, and how quickly an appeal will be heard. Commercial parties who misjudge these questions — by filing in the wrong forum, ignoring the specified value threshold, or bypassing mandatory pre-institution mediation — routinely lose time, incur avoidable costs, and in some cases lose the right to defend a claim altogether.",
+
+        "Ordinary civil litigation in India proceeds under the general provisions of the CPC, with no special obligation to disclose adverse documents, no fixed outer limit for filing a written statement, and no dedicated mechanism for summary disposal of claims that do not genuinely require a trial. Commercial litigation under the Commercial Courts Act departs from this model in each respect. The Act was conceived on the premise that high-value commercial disputes require dedicated judges, stricter timelines, and procedural tools — disclosure, case management, and summary judgment — that are simply unavailable in an ordinary civil suit.",
+
+        "This article explains, in a single reference document, how Commercial Courts are constituted, what qualifies as a \"commercial dispute,\" how specified value and jurisdiction are determined, how pre-institution mediation under Section 12A operates (including the urgent interim relief exception as clarified by the Supreme Court), how a commercial suit proceeds from filing to judgment, what interim and final remedies are available, how appeals work, and how commercial litigation interacts with arbitration, insolvency proceedings, RERA and intellectual property law. It is written for businesses, in-house counsel, promoters, creditors, contractors and advocates who need a working, current understanding of the subject — not a restatement of the bare text of the Act."
+      ]
+    },
+
+    {
+      heading: "2. What Is a Commercial Court in India?",
+      paragraphs: [
+        "A Commercial Court is a specialised civil court constituted under the Commercial Courts Act, 2015 to exclusively try suits and applications relating to \"commercial disputes\" of specified value. The Act creates three tiers of specialised adjudication.",
+
+        "Commercial Courts are constituted at the district level by the State Government, in consultation with the concerned High Court, in every district. Where the High Court exercises ordinary original civil jurisdiction over a territory, Commercial Courts are constituted at a level not below that of a District Judge, and they exercise jurisdiction over commercial disputes that would otherwise lie before a civil court of ordinary jurisdiction, subject to specified value.",
+
+        "Commercial Divisions of High Courts are constituted in each of the High Courts that exercise ordinary original civil jurisdiction, to hear commercial disputes of specified value that would ordinarily be filed on the original side of that High Court, for example, a commercial suit filed directly in the Delhi High Court or Bombay High Court under its ordinary original civil jurisdiction.",
+
+        "Commercial Appellate Divisions are constituted in every High Court, not only those with original civil jurisdiction, to hear appeals from Commercial Courts, from Commercial Divisions, and from orders of statutory or arbitral forums as specified in the Act.",
+
+        "The unifying purpose of this structure is specialised adjudication. Judges assigned to Commercial Courts and Commercial Divisions typically have experience in commercial and contractual matters, and the Act and the amended CPC provisions applicable to commercial suits are designed to compel faster, more predictable disposal than is realistic in an ordinary civil court carrying a mixed docket of property, matrimonial, tenancy and commercial matters.",
+
+        "A commercial suit is, procedurally, a different creature from an ordinary civil suit: it carries mandatory disclosure obligations, a hard outer limit for filing a written statement, mandatory case management hearings, and the possibility of summary judgment — none of which apply by default to a suit filed in an ordinary civil court.",
+
+        "Commercial Court vs Ordinary Civil Court:",
+
+        "Governing framework — Commercial Court: CPC as specially modified by the Commercial Courts Act, 2015. Ordinary Civil Court: CPC, 1908 in its ordinary form.",
+
+        "Applicability — Commercial Court: Commercial disputes of specified value of ₹3 lakh or more. Ordinary Civil Court: Other civil disputes and commercial disputes below the applicable specified-value threshold.",
+
+        "Pre-institution mediation — Commercial Court: Mandatory under Section 12A unless urgent interim relief is genuinely contemplated. Ordinary Civil Court: Section 12A does not apply.",
+
+        "Written statement — Commercial Court: 30 days, extendable to a strict outer limit of 120 days, after which the right is forfeited. Ordinary Civil Court: The ordinary CPC framework applies.",
+
+        "Disclosure — Commercial Court: Detailed, mandatory and reciprocal disclosure under Order XI. Ordinary Civil Court: No equivalent front-loaded disclosure regime.",
+
+        "Case management — Commercial Court: Mandatory case management under Order XV-A. Ordinary Civil Court: No equivalent mandatory commercial case-management hearing.",
+
+        "Summary judgment — Commercial Court: Available under Order XIII-A where the statutory test is satisfied. Ordinary Civil Court: No equivalent Order XIII-A mechanism.",
+
+        "Appeals — Commercial Court: Governed principally by Section 13 of the Commercial Courts Act, with restrictions on appeals against interlocutory orders. Ordinary Civil Court: Ordinary CPC appellate framework."
+      ]
+    },
+
+    {
+      heading: "3. What Is the Commercial Courts Act, 2015?",
+      paragraphs: [
+        "The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 came into force in 2015 against the backdrop of India's persistently poor \"enforcing contracts\" ranking in international ease-of-doing-business assessments and the recognised inadequacy of the ordinary civil process for resolving high-value commercial disputes within a commercially useful timeframe.",
+
+        "The Act was substantially amended by the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018, which is the version of the Act, in substance, that governs commercial litigation today.",
+
+        "The 2018 amendment made four changes that define the present-day character of commercial litigation.",
+
+        "First, it drastically lowered the specified value threshold — from ₹1 crore to ₹3 lakh — bringing a far larger universe of commercial disputes within the specialised regime, including disputes that district courts across India routinely handle.",
+
+        "Second, it introduced Section 12A, making pre-institution mediation mandatory, subject to an urgent interim relief exception, before a commercial suit that does not contemplate urgent interim relief can be instituted.",
+
+        "Third, it inserted Order XV-A, dealing with case management hearings, and Order XIII-A, dealing with summary judgment, into the CPC as applicable to commercial disputes, and substantially rewrote Order XI to impose detailed, reciprocal disclosure obligations on both plaintiffs and defendants.",
+
+        "Fourth, it tightened the written statement timeline, capping the period within which a defendant may file a written statement at 120 days from service of summons, with forfeiture of the right to file beyond that period.",
+
+        "A further draft Commercial Courts (Amendment) Bill, 2024 was circulated by the Department of Legal Affairs for public comment in November 2024, proposing, among other things, dedicated commercial courts at the district level distinct from ordinary district courts. As of August 2026, this remains a draft under consideration; it has not been enacted, and practitioners should treat it as a legislative proposal to monitor rather than as current law.",
+
+        "The Act does not repeal the CPC; it supplements it. Sections 16 and 21 of the Act amend the CPC as it applies to commercial disputes, so that a commercial suit is governed by the ordinary CPC as modified by the special provisions, including Order VI Rule 15A verification, Order XI disclosure, Order XIII-A summary judgment, Order XV-A case management and the amended Order VIII written statement timeline, wherever those special provisions apply."
+      ]
+    },
+
+    {
+      heading: "4. What Is a Commercial Dispute?",
+      paragraphs: [
+        "A dispute does not become a commercial dispute merely because one or both parties are companies or business entities. This is one of the most frequently misunderstood aspects of the Act, and getting it wrong at the drafting stage can result in a suit being tried, appealed and enforced under the wrong procedural regime entirely, or in unnecessary jurisdictional challenges.",
+
+        "What makes a dispute \"commercial\" is the subject matter of the dispute as defined by Section 2(1)(c) of the Act, not the identity or corporate status of the parties.",
+
+        "Section 2(1)(c) defines \"commercial dispute\" through an exhaustive, though broadly worded, list of categories. These include, among others, ordinary transactions of merchants, bankers, financiers and traders such as those relating to the construction and architecture of mercantile documents; export or import of merchandise or services; issues relating to admiralty and maritime law; transactions relating to aircraft, aircraft engines and equipment, and their lease and hire purchase; carriage of goods; construction and infrastructure contracts, including tenders; agreements relating to immovable property used exclusively in trade or commerce; franchising agreements; distribution and licensing agreements; management and consultancy agreements; joint venture agreements; shareholders' agreements; subscription and investment agreements pertaining to companies, LLPs, partnerships and unincorporated bodies; mercantile agency and mercantile usage; partnership agreements; technology development agreements; agreements for sale of goods or provision of services; exploitation of oil and gas reserves; insurance and re-insurance; contracts for hiring, leasing and hire-purchase; and intellectual property rights, including trademarks, copyright, patents, designs, domain names, geographical indications and semi-conductor integrated circuits.",
+
+        "Two features of this definition matter in practice. First, the list is transactional, not party-based: a dispute between two individuals arising from a franchise agreement can be a commercial dispute, while a dispute between two companies arising from, say, a purely personal loan unconnected to trade or business may not be.",
+
+        "Second, several categories are qualified by language requiring an actual, existing commercial character — most notably immovable property disputes, where the Supreme Court has held that the property must be \"actually used\" exclusively in trade or commerce, not merely intended, likely, or ready to be so used, for the dispute to qualify.",
+
+        "In Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP, (2020) 15 SCC 585, the Supreme Court held that immovable property must be \"actually used\" exclusively in trade or commerce, not merely intended, likely, or ready to be used, for a dispute concerning it to qualify as a commercial dispute under Section 2(1)(c)(vii) of the Commercial Courts Act, 2015.",
+
+        "Before drafting a plaint, or opposing one on jurisdictional grounds, a party should map the dispute against the specific sub-clause of Section 2(1)(c) under which it falls, and plead the commercial character of the transaction — and, where relevant, the actual use of any immovable property — with precision.",
+
+        "A vague assertion that the dispute is \"commercial in nature\" because the plaintiff is a company is not sufficient and invites challenge."
+      ]
+    },
+
+    {
+      heading: "5. Examples of Commercial Disputes",
+      paragraphs: [
+        "The following are illustrative categories businesses commonly bring before Commercial Courts.",
+
+        "A supplier suing a buyer for unpaid invoices under a supply or manufacturing agreement.",
+
+        "A principal suing a distributor, or vice versa, for breach of exclusivity or minimum purchase obligations under a distribution agreement.",
+
+        "A franchisor terminating a franchise agreement for non-payment of royalties, or a franchisee challenging wrongful termination.",
+
+        "A SaaS or technology vendor suing a customer for unpaid licence fees, or a customer suing over service-level failures under a technology or SaaS contract.",
+
+        "An employer suing a contractor, or vice versa, over defects, delay or payment certification under a construction or EPC contract for an infrastructure project.",
+
+        "A landlord suing a commercial tenant for arrears of rent or possession under a commercial lease where the premises are actually used for business.",
+
+        "A developer and a landowner disputing performance under a joint development agreement.",
+
+        "A shareholder enforcing rights or seeking damages for breach of a shareholders' agreement or investment/subscription agreement.",
+
+        "A licensor suing for infringement or breach of a technology licensing or IP licensing agreement.",
+
+        "An insurer resisting or an insured pursuing a claim under a commercial insurance policy.",
+
+        "Disputes over payment defaults, price escalation or termination arising out of joint venture and consultancy agreements.",
+
+        "Typical Section 2(1)(c) categories include sale of goods and mercantile transactions, distribution and licensing agreements, construction and infrastructure contracts, technology development agreements, shareholders' agreements, commercial immovable-property disputes, insurance and re-insurance, and intellectual property rights."
+      ]
+    },
+
+    {
+      heading: "6. What Is Specified Value?",
+      paragraphs: [
+        "\"Specified value,\" under Section 2(1)(i) read with Section 12 of the Commercial Courts Act, is the value of the subject matter of a commercial dispute, determined in accordance with Section 12, which must not be less than the statutory threshold for the dispute to be triable by a Commercial Court.",
+
+        "As of August 2026, that threshold remains ₹3,00,000 (three lakh rupees), as fixed by the 2018 amendment to the Act.",
+
+        "Practitioners should be careful not to rely on the original 2015 threshold of ₹1 crore, which was reduced to ₹3 lakh with effect from 2018 and has not been revised since.",
+
+        "There has been recent appellate clarification — not a change in the amount — on when the reduced threshold took legal effect: a 2026 Andhra Pradesh High Court ruling, by majority, held that the ₹3 lakh threshold took effect through the 2018 central amendment itself, without requiring a separate State notification, though a dissenting view on the point exists and the question may see further appellate attention.",
+
+        "Specified value is calculated under Section 12 with reference to the market value of immovable property, where relevant; the amount of money claimed, including any interest claimed as part of the cause of action and computed up to the date of filing; and, for suits seeking relief other than recovery of money, the market value of the subject matter as on the date of filing.",
+
+        "Where a suit combines monetary and non-monetary relief, the specified value is the higher of the values so determined.",
+
+        "Where a counterclaim is filed, its value is assessed independently, and a counterclaim exceeding the specified-value threshold can itself bring or keep a matter within the Commercial Court's jurisdiction even where the original claim would not, though the interaction of low-value claims with high-value counterclaims can raise valuation disputes that require careful pleading.",
+
+        "Interest, where claimed as part of the relief and not merely as a future entitlement, forms part of the value for this purpose; discretionary post-suit interest generally does not.",
+
+        "Undervaluation or overvaluation of the claim to manipulate jurisdiction — bringing a claim into the Commercial Court's ambit that does not genuinely meet the threshold, or conversely pleading an inflated value to avoid an inconvenient ordinary civil court — is a recognised ground for objection.",
+
+        "Courts have the power to return or reject a plaint, or direct correct valuation, where the stated value does not reflect the real value of the subject matter."
+      ]
+    },
+
+    {
+      heading: "7. Jurisdiction of Commercial Courts",
+      paragraphs: [
+        "Jurisdiction in commercial litigation should be analysed separately under three heads: territorial jurisdiction, pecuniary or specified-value jurisdiction, and subject-matter jurisdiction."
+      ]
+    },
+
+    {
+      heading: "7.1 Territorial Jurisdiction",
+      paragraphs: [
+        "Territorial jurisdiction for a commercial suit is determined by the same principles that govern ordinary civil suits under Sections 16 to 20 of the CPC — the place where the cause of action, wholly or in part, arises; the place of the defendant's residence, business or work for gain; and, for suits relating to immovable property, the place where the property is situated — subject to the Commercial Courts Act's allocation of that jurisdiction to the Commercial Court rather than the ordinary civil court for the relevant territory once the specified-value threshold is met.",
+
+        "Where an arbitration agreement designates a \"seat,\" Section 42 of the Arbitration and Conciliation Act, 1996 additionally operates to confer exclusive jurisdiction, for matters arising out of that arbitration, on the courts of the seat.",
+
+        "Contractual jurisdiction clauses, choosing for example the courts of Mumbai or Delhi to have exclusive jurisdiction, are given effect by Indian courts, but only where more than one court would otherwise have jurisdiction under the CPC.",
+
+        "Parties can agree to confer exclusive jurisdiction on one of several courts that would independently have jurisdiction; they cannot, by contract, confer jurisdiction on a court that has no connection to the cause of action, the defendant, or the subject property, and which would otherwise have no jurisdiction in law."
+      ]
+    },
+
+    {
+      heading: "7.2 Pecuniary Jurisdiction",
+      paragraphs: [
+        "Pecuniary jurisdiction is governed by the specified value threshold explained above: a dispute must be a \"commercial dispute\" of specified value of at least ₹3 lakh to be triable by a Commercial Court at all.",
+
+        "Below that threshold, the dispute — even if commercial in character — is triable by an ordinary civil court under general pecuniary jurisdiction rules.",
+
+        "Above the threshold, whether the matter is heard by a district-level Commercial Court or by a Commercial Division of the High Court depends on the High Court's ordinary original civil jurisdiction limits and any pecuniary jurisdiction notified for that purpose in the relevant State or High Court."
+      ]
+    },
+
+    {
+      heading: "7.3 Subject-Matter Jurisdiction",
+      paragraphs: [
+        "Subject-matter jurisdiction turns on whether the dispute falls within one of the Section 2(1)(c) categories.",
+
+        "A dispute that is not a \"commercial dispute\" as defined — however large in value — remains outside the Commercial Court's jurisdiction and must be filed in the ordinary civil court or before the relevant specialised tribunal, where one exists."
+      ]
+    },
+
+    {
+      heading: "7.4 Commercial Division of High Courts",
+      paragraphs: [
+        "In the High Courts exercising ordinary original civil jurisdiction, commercial disputes of specified value that would otherwise be filed on the original side are heard by the Commercial Division of that High Court rather than by a district Commercial Court."
+      ]
+    },
+
+    {
+      heading: "7.5 Commercial Appellate Division",
+      paragraphs: [
+        "Every High Court — whether or not it possesses ordinary original civil jurisdiction — has a Commercial Appellate Division, which hears appeals from Commercial Courts, from Commercial Divisions, and from certain orders under the Arbitration and Conciliation Act, 1996 relating to commercial disputes of specified value."
+      ]
+    },
+
+    {
+      heading: "7.6 Transfer of Pending Proceedings",
+      paragraphs: [
+        "Section 15 of the Act requires that suits and applications relating to commercial disputes of specified value, pending before other courts, including civil courts and, where relevant, the ordinary side of a High Court, at the time a Commercial Division or Commercial Court is constituted, be transferred to the Commercial Division or Commercial Court.",
+
+        "There is a savings provision for a suit or application in which final judgment has been reserved and such proceedings are not transferred.",
+
+        "This has produced substantial litigation of its own over which stage of a case \"final judgment reserved\" refers to, and whether specific interlocutory applications survive transfer — an area where High Court practice is not fully uniform and specific local practice should be checked.",
+
+        "As a general proposition, parties cannot, by agreement, confer subject-matter or pecuniary jurisdiction on a Commercial Court where the dispute is not, in substance, a commercial dispute of specified value; jurisdiction of this kind is a matter of law, not of party consent."
+      ]
+    },
+
+    {
+      heading: "8. Pre-Institution Mediation Under Section 12A",
+      paragraphs: [
+        "Is pre-institution mediation mandatory before filing a commercial suit in India?",
+
+        "Yes. Section 12A of the Commercial Courts Act requires a plaintiff to exhaust pre-institution mediation before instituting a commercial suit that does not contemplate any urgent interim relief.",
+
+        "The Supreme Court, in Patil Automation Private Limited v. Rakheja Engineers Private Limited, (2022) 10 SCC 1, held that this requirement is mandatory, not directory, and that a suit instituted in violation of Section 12A — without a genuine claim to urgent interim relief — is liable to be rejected under Order VII Rule 11 CPC for non-compliance with a mandatory pre-condition to institution.",
+
+        "How it works: A prospective plaintiff who intends to file a commercial suit not contemplating urgent interim relief must first apply to an authority notified for this purpose — ordinarily the concerned District Legal Services Authority — for pre-institution mediation under the applicable statutory framework.",
+
+        "The authority appoints a mediator, issues notice to the opposite party, and the parties attempt to resolve the dispute within the statutorily prescribed period, subject to permissible extension by consent.",
+
+        "If a settlement is reached, it is reduced to writing, signed by the parties, and has the same status and effect as an arbitral award on agreed terms under Section 30(4) of the Arbitration and Conciliation Act, 1996 — meaning it is directly enforceable as a decree without a fresh suit.",
+
+        "If mediation fails, or the opposite party does not participate, the mediator issues a non-settlement report, and the plaintiff is then free to institute the commercial suit.",
+
+        "The time spent in Section 12A mediation is excluded in computing the period of limitation for filing the suit, so that a plaintiff who genuinely engages in the process does not lose a limitation defence by doing so.",
+
+        "A commercial suit filed without undertaking mandatory pre-institution mediation, where no genuine urgent interim relief is contemplated, is liable to be rejected at the threshold.",
+
+        "Following Patil Automation, the Supreme Court clarified, with prospective effect from 20 August 2022, that this consequence would apply going forward, given the divergent High Court practice that had developed before the decision.",
+
+        "The Supreme Court has since made clear that Section 12A is not an absolute or unqualified right that can be waived by conduct or convenience, and, in Yamini Manohar v. T.K.D. Keerthi, clarified the operative test for the urgent interim relief exception."
+      ]
+    },
+
+    {
+      heading: "9. Urgent Interim Relief and Section 12A",
+      paragraphs: [
+        "Section 12A exempts a plaintiff from mandatory pre-institution mediation only where the suit \"contemplates any urgent interim relief.\" Merely adding a prayer for injunction to the plaint does not, on its own, satisfy this exception.",
+
+        "In Yamini Manohar v. T.K.D. Keerthi, the Supreme Court held that the touchstone is whether the plaint genuinely and objectively contemplates urgent interim relief on the facts pleaded — assessed from the averments in the plaint and the nature of the relief sought — and not whether the court, at the end of the day, actually grants that relief.",
+
+        "Courts are required to exercise care to ensure that Section 12A is not defeated by camouflaged or artificial urgency pleaded solely as a device to bypass mandatory mediation.",
+
+        "Where the plea of urgency is found to be a mere pretence, the court can still relegate the plaintiff to mediation or reject the suit as non-compliant.",
+
+        "Typical fact patterns that can genuinely support urgent interim relief include applications for injunctions to prevent imminent, irreparable breach of confidentiality obligations; injunctions to restrain infringement of intellectual property where continuing infringement causes ongoing, unquantifiable harm; orders for preservation of evidence or property, including electronic evidence, at risk of destruction; and orders to restrain a defendant from dissipating assets where there is credible, specific evidence that dissipation is imminent.",
+
+        "By contrast, a straightforward money claim for unpaid invoices, dressed up with a token prayer for injunction against alienation of unidentified assets with no specific evidence of imminent dissipation, is unlikely to be treated as genuinely contemplating urgent interim relief.",
+
+        "Businesses should treat the urgent interim relief exception as a narrow, fact-driven doorway rather than a routine drafting device, because the consequence of getting it wrong is not merely refusal of the interim relief sought — it can be rejection of the suit itself for non-compliance with Section 12A, requiring the plaintiff to restart the process through mediation."
+      ]
+    },
+
+    {
+      heading: "10. How to File a Commercial Suit in India: Step-by-Step",
+      paragraphs: [
+        "STEP 1 — Identify the dispute. Define precisely what has gone wrong, such as non-payment, breach of exclusivity, defective performance or wrongful termination, and identify against whom.",
+
+        "STEP 2 — Determine whether it is a commercial dispute. Map the dispute against the categories in Section 2(1)(c).",
+
+        "STEP 3 — Determine specified value. Calculate the value under Section 12 to confirm that the applicable threshold is met.",
+
+        "STEP 4 — Determine territorial jurisdiction. Identify the correct forum based on cause of action, defendant's location, or contractual jurisdiction clause.",
+
+        "STEP 5 — Determine subject-matter jurisdiction. Confirm the Commercial Court, rather than a specialised tribunal, is the appropriate forum.",
+
+        "STEP 6 — Check the arbitration agreement. Review the underlying contract for an arbitration clause. If one exists and covers the dispute, a civil suit may be liable to be referred to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996.",
+
+        "STEP 7 — Check for a specialised statutory forum. Confirm the dispute is not one that a specialised tribunal, such as NCLT for insolvency or RERA authorities for certain real-estate matters, has exclusive or overlapping jurisdiction to determine.",
+
+        "STEP 8 — Check limitation. Confirm the claim is within limitation, factoring in any exclusion available for the Section 12A mediation period.",
+
+        "STEP 9 — Consider Section 12A. Determine whether the suit genuinely contemplates urgent interim relief; if not, initiate pre-institution mediation before filing.",
+
+        "STEP 10 — Preserve evidence. Secure and preserve all relevant documents, electronic records and communications before they are lost, overwritten or become stale.",
+
+        "STEP 11 — Prepare the plaint. Draft the plaint with precise, specific pleadings, verified in the manner prescribed and supported by a Statement of Truth.",
+
+        "STEP 12 — Prepare the disclosure/document set. Compile the list of all documents in the plaintiff's power, possession or control that are relevant to the dispute — whether or not they support the plaintiff's case — for filing with the plaint under Order XI.",
+
+        "STEP 13 — Institute the suit. File the plaint, along with the requisite court fee, verification, Statement of Truth and Order XI document set, before the correct Commercial Court or Commercial Division.",
+
+        "STEP 14 — Service of summons. The court issues summons for service on the defendant, typically also directing electronic modes of service, including email and, where applicable, other electronic means, to expedite the process.",
+
+        "STEP 15 — Written statement. The defendant files a written statement within 30 days, extendable up to a strict outer limit of 120 days from the date of service of summons, along with its own Order XI disclosure.",
+
+        "STEP 16 — Disclosure, discovery and inspection. Both parties exchange documents, seek discovery of specific documents and conduct inspection under the Order XI framework.",
+
+        "STEP 17 — Case management hearing. The court holds a mandatory case management hearing under Order XV-A to frame issues, fix the trial timetable and set deadlines for evidence and arguments.",
+
+        "STEP 18 — Evidence. Parties lead evidence — documentary, oral and, where relevant, electronic — in accordance with the Bharatiya Sakshya Adhiniyam, 2023 and the timetable fixed at case management.",
+
+        "STEP 19 — Summary judgment, where appropriate. Either party may apply for summary judgment under Order XIII-A, before issues are framed, where the case does not genuinely require a trial.",
+
+        "STEP 20 — Final judgment. The court delivers judgment after trial or summarily, addressing liability, quantum, interest and costs.",
+
+        "STEP 21 — Appeal, where maintainable. A party aggrieved by the judgment, or by certain categories of interlocutory orders, may appeal to the Commercial Appellate Division within the prescribed limitation period.",
+
+        "STEP 22 — Execution. The decree-holder executes the decree under Order XXI CPC if the judgment debtor does not voluntarily satisfy the decree."
+      ]
+    },
+
+    {
+      heading: "11. Pleadings in Commercial Suits",
+      paragraphs: [
+        "Pleadings in a commercial suit — the plaint, written statement, and any counterclaim or reply to counterclaim — must state material facts with precision.",
+
+        "Order VI Rule 15A CPC, as applicable to commercial disputes, requires a plaint to be verified by an affidavit in the prescribed form and accompanied by a Statement of Truth, in which the party, or a person with knowledge of the facts and duly authorised, affirms that the facts stated are true, that the party believes the facts stated to be true, and that the pleading does not contain any matter which is false.",
+
+        "A false Statement of Truth may attract contempt proceedings and other consequences.",
+
+        "Precision matters more in commercial pleadings than in ordinary civil pleadings because of the interlocking effect of disclosure, case management and summary judgment.",
+
+        "A vaguely pleaded case cannot be tested against Order XI disclosure obligations, cannot be case-managed efficiently, and is vulnerable to an adverse summary judgment application because it fails to disclose a real, arguable case.",
+
+        "Admissions and denials must be specific. A bare, general denial of an allegation, without addressing the substance of what is alleged, is treated as an evasive denial and can be construed as an admission of the fact not properly denied.",
+
+        "Businesses instructing counsel on a commercial dispute should expect, and should insist on, pleadings that identify each document relied upon, plead the specific breach and the specific loss said to flow from it, and avoid vague, omnibus allegations that invite early challenge."
+      ]
+    },
+
+    {
+      heading: "12. Written Statement in Commercial Suits",
+      paragraphs: [
+        "Can a written statement be filed after 120 days in a commercial suit?",
+
+        "No. In a commercial suit, a defendant must file its written statement within 30 days of service of summons. The court may extend this period, but only up to a maximum of 120 days from the date of service of summons.",
+
+        "Once 120 days have elapsed from service of summons, the defendant forfeits the right to file a written statement, and the court has no discretion to take a written statement on record beyond that period.",
+
+        "The Supreme Court's decision in SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd., (2019) 12 SCC 210, is the foundational authority. The Court held that the 120-day outer limit is mandatory, that it admits of no further extension or condonation by the court beyond that period, and that a written statement filed beyond 120 days cannot be taken on record even with the consent of the opposite party.",
+
+        "This was a deliberate legislative departure from the position under the ordinary CPC, reflecting the Act's core objective of procedural discipline.",
+
+        "The Supreme Court has since extended and clarified the principle. In 2026, the Court held that the same strict 120-day outer limit applies with equal force to a plaintiff's reply to a counterclaim filed by the defendant in a commercial suit, confirming that the discipline of Order VIII applies symmetrically to whichever party is required to respond to a claim.",
+
+        "Practical consequence: A defendant, or a plaintiff responding to a counterclaim, that misses the 120-day window loses the right to contest the claim on the merits through a written statement.",
+
+        "Businesses should treat service of summons in a commercial suit as triggering an immediate, firm internal deadline and should engage counsel promptly rather than waiting until the 30-day period has nearly expired."
+      ]
+    },
+
+    {
+      heading: "13. Disclosure, Discovery and Inspection",
+      paragraphs: [
+        "Order XI, as substituted for commercial disputes by the 2018 amendment, replaces the more limited disclosure regime of the ordinary CPC with a detailed, front-loaded disclosure framework.",
+
+        "A plaintiff must file, along with the plaint, a list of all documents and photocopies of all documents in its power, possession, control or custody relating to any matter in question in the proceeding — including documents that are adverse to its own case — together with a declaration on oath that all such documents have been disclosed and that the plaintiff does not have any other relevant document in its power, possession, control or custody.",
+
+        "A defendant carries a parallel obligation with its written statement.",
+
+        "Disclosure extends to documents \"relating to any matter in question,\" not merely documents a party intends to rely upon. This is the central departure from ordinary civil practice, where a party generally need only produce documents it relies on.",
+
+        "Parties may seek particular discovery of specific documents believed to be in the other side's possession, and may seek inspection of disclosed documents.",
+
+        "Electronic documents fall squarely within this obligation and must be disclosed and produced in a reasonably usable format.",
+
+        "Parties are expected to take reasonable steps to preserve electronically stored information once litigation is reasonably anticipated.",
+
+        "Privileged documents, such as documents protected by legal professional privilege, may be withheld, but the withholding party must disclose the existence of the document and state the ground of privilege claimed rather than simply omitting it.",
+
+        "The obligation to disclose is continuing. A party that comes into possession of a relevant document after filing must supplement its disclosure.",
+
+        "Non-disclosure carries real consequences. A party cannot ordinarily rely at trial on a document it failed to disclose, except with the leave of the court and generally on terms as to costs.",
+
+        "Adverse inferences may be drawn, or costs imposed, where non-disclosure appears deliberate or reflects an attempt to obtain a tactical advantage.",
+
+        "Because disclosure operates at the outset of the case — before pleadings have crystallised the issues through a full trial — it is often the single most consequential procedural stage in commercial litigation, since it exposes the real strength or weakness of a party's documentary case very early, feeding directly into settlement leverage and the viability of a summary judgment application."
+      ]
+    },
+
+    {
+      heading: "14. Electronic Evidence",
+      paragraphs: [
+        "Electronic evidence is now governed by the Bharatiya Sakshya Adhiniyam, 2023 (BSA), which came into force on 1 July 2024 and replaced the Indian Evidence Act, 1872.",
+
+        "Any current discussion of electronic evidence in commercial litigation must proceed on the footing of the BSA, not the repealed 1872 Act.",
+
+        "Emails, WhatsApp and other messaging records, electronic contracts and e-signatures, electronic invoices, cloud-stored records, CCTV footage, and records generated by accounting or ERP software are all electronic records within the meaning of the BSA and are admissible subject to the conditions prescribed by the Act.",
+
+        "Section 63 of the BSA is the operative provision — the successor to Section 65B of the repealed Evidence Act — and governs the admissibility of information contained in an electronic record without requiring production of the original device, subject to satisfaction of the statutory conditions.",
+
+        "Admissibility under Section 63 requires a certificate in the terms prescribed by Section 63(4), identifying the electronic record, describing the manner of its production, giving particulars of the device involved, and dealing with the applicable statutory conditions.",
+
+        "The BSA also clarifies certain points that had generated litigation under the earlier law — for example, that electronic records may include records stored in semiconductor memory, cloud storage or communication devices, and that a single electronic record can, in defined circumstances, be produced from multiple storage locations without loss of admissibility.",
+
+        "In commercial litigation, this matters directly for supply chain, technology and services disputes, where the operative record of agreement, price, delivery or acceptance is very often an email chain, an ERP or ordering-system log, or a chat exchange rather than a signed paper document.",
+
+        "Practical implication: Preserve electronic evidence — email threads, chat logs, cloud records and accounting entries — from the moment a dispute is reasonably anticipated.",
+
+        "Businesses should take care not to alter metadata inadvertently through routine IT processes such as device migrations, mailbox archiving and backup rotation that could compromise the authenticity or continuity of a record.",
+
+        "The Section 63(4) certificate should, where possible, be obtained contemporaneously with collection of the record from the person genuinely responsible for the relevant system, rather than being treated as an afterthought before trial."
+      ]
+    },
+
+    {
+      heading: "15. Case Management",
+      paragraphs: [
+        "Order XV-A requires the Commercial Court, after the completion of pleadings, including any replication permitted, to hold a case management hearing.",
+
+        "At this hearing, the court frames issues after hearing the parties, and fixes the dates and sequence for admission and denial of documents; filing of affidavits of evidence-in-chief; examination and cross-examination of witnesses; filing of written arguments; and oral arguments.",
+
+        "The Court is expected to fix a final date for the conclusion of trial and, ordinarily, for pronouncement of judgment thereafter, with the underlying legislative expectation that trial be conducted continuously as far as practicable rather than in the piecemeal, adjournment-driven fashion typical of ordinary civil litigation.",
+
+        "The case management hearing is where judicial control over the pace of the litigation is most visible in practice.",
+
+        "The court can restrict cross-examination to relevant issues, dispense with unnecessary evidence, and impose costs for non-compliance with timelines, applications for adjournment without sufficient cause, and other conduct that undermines the objective of speedy disposal.",
+
+        "For businesses, the case management stage is the point at which the practical cost and duration of litigating a dispute to judgment becomes reasonably foreseeable, and it should inform any settlement calculus from that point forward."
+      ]
+    },
+
+    {
+      heading: "16. Summary Judgment",
+      paragraphs: [
+        "What is summary judgment in a commercial suit?",
+
+        "Summary judgment under Order XIII-A CPC is a mechanism by which a Commercial Court can decide a commercial suit, in whole or in part, without recording oral evidence at a full trial, where it is satisfied that the plaintiff has no real prospect of succeeding on the claim, or the defendant has no real prospect of successfully defending it, and there is no other compelling reason why the claim or defence should be disposed of only at trial.",
+
+        "Either the plaintiff or the defendant may apply for summary judgment, on the whole claim or on a particular issue or part of the claim, at any time after summons has been served on the defendant but before issues have been framed.",
+
+        "The application must be supported by evidence, typically an affidavit annexing the relevant documents on which the applicant relies.",
+
+        "The expression \"real prospect\" is a higher threshold than a merely arguable case. The court is not required to accept a case at face value simply because it has been pleaded, but must assess whether the claim or defence has substance when tested against the evidence available and reasonably expected to be available at trial.",
+
+        "At the same time, the court must stop short of conducting a full mini-trial that resolves genuine, credible disputes of fact requiring oral evidence and cross-examination.",
+
+        "The Supreme Court in Reliance Eminent Trading and Commercial Private Limited v. Delhi Development Authority, 2026 INSC 436, laid down detailed, non-exhaustive guidelines for the exercise of the Order XIII-A power.",
+
+        "The Supreme Court emphasised that courts should distinguish genuine from fanciful or speculative defences, decide short and clear points of law without hesitation, consider both the evidence presently on record and evidence reasonably expected at trial, avoid conducting a disguised mini-trial while equally avoiding a superficial acceptance of unsubstantiated pleadings, exercise the power sparingly and only where oral evidence is genuinely unnecessary to resolve the dispute, and apply a standard of proportionality calibrated to the complexity and stakes of the case.",
+
+        "Unlike a judgment delivered after full trial, summary judgment is decided on affidavit evidence and documents, without cross-examination, and is available only where the absence of a real triable dispute makes a trial unnecessary.",
+
+        "It is not a shortcut for resolving genuinely contested facts more quickly, and an application made on a weak footing risks being dismissed with costs, in addition to delaying the ordinary progress of the suit."
+      ]
+    },
+
+    {
+      heading: "17. Interim Remedies",
+      paragraphs: [
+        "Commercial Courts can grant a range of interim remedies depending upon the nature of the dispute and the evidence placed before the court."
+      ]
+    },
+
+    {
+      heading: "17.1 Temporary Injunction",
+      paragraphs: [
+        "A temporary prohibitory injunction under Order XXXIX Rules 1 and 2 CPC restrains a party from doing a specific act — commonly, continuing a breach, disposing of specific property or infringing an intellectual property right — pending the suit.",
+
+        "The applicant must establish a prima facie case, that the balance of convenience favours the grant of injunction, and that it would suffer irreparable injury if the injunction is refused.",
+
+        "Courts scrutinise applications for interim injunctions with particular care in commercial matters where the underlying dispute is essentially one for money, since an injunction is not ordinarily available merely to secure a money claim."
+      ]
+    },
+
+    {
+      heading: "17.2 Mandatory Injunction",
+      paragraphs: [
+        "A mandatory injunction compels a party to perform a positive act, for example restoring a disconnected supply or reversing an act already done, rather than merely restraining conduct.",
+
+        "Courts grant mandatory relief at the interim stage more sparingly than prohibitory relief, generally requiring a strong prima facie case and circumstances that make it just to compel action before trial, since a mandatory order effectively grants the substantive relief provisionally before the merits have been fully tried."
+      ]
+    },
+
+    {
+      heading: "17.3 Preservation of Property",
+      paragraphs: [
+        "Courts may order the preservation, custody or sale of property that is the subject matter of the suit, or direct the deposit of money or securities in court, under Order XXXIX Rules 6 to 10 CPC, where preservation is necessary to protect the value of the subject matter pending adjudication."
+      ]
+    },
+
+    {
+      heading: "17.4 Appointment of Receiver",
+      paragraphs: [
+        "A receiver may be appointed under Order XL CPC where it is just and convenient to do so — for example, to manage property or a business pending the outcome of a dispute over its control — though this is an intrusive remedy that courts grant only where lesser measures would not adequately protect the applicant's interest."
+      ]
+    },
+
+    {
+      heading: "17.5 Protection of Confidential Information",
+      paragraphs: [
+        "Interim relief to protect confidential information — restraining use or disclosure of trade secrets, client lists or proprietary technical information — is available on the same general principles governing prohibitory injunctions.",
+
+        "This is one of the categories of relief most likely to genuinely satisfy the urgent interim relief exception to Section 12A mediation, given the often irreversible nature of a breach of confidentiality once it occurs."
+      ]
+    },
+
+    {
+      heading: "17.6 Intellectual Property Injunctions",
+      paragraphs: [
+        "Injunctions restraining infringement of a registered trademark, patent, design or copyright, or restraining passing off, are a well-established category of interim relief in commercial and IP litigation.",
+
+        "They are generally assessed on the ordinary prima facie case, balance of convenience and irreparable harm framework, with courts giving weight to factors such as the strength of the registration, delay in seeking relief and any acquiescence by the plaintiff."
+      ]
+    },
+
+    {
+      heading: "17.7 Protection Against Dissipation of Assets",
+      paragraphs: [
+        "Where there is credible, specific evidence that a defendant intends to remove property from the jurisdiction, or to dispose of or conceal assets, with the intention of obstructing or delaying execution of a decree that may eventually be passed, a plaintiff may seek attachment before judgment under Order XXXVIII Rule 5 CPC.",
+
+        "This relief is not available on generalised apprehension. The applicant must place specific material before the court establishing the defendant's intention to defeat a prospective decree.",
+
+        "None of these remedies is available as of right; each rests on a fact-specific threshold, and courts in commercial matters have become increasingly alert to interim applications used as a strategic device, including to engineer an argument that the suit contemplates urgent interim relief for the purpose of bypassing Section 12A mediation."
+      ]
+    },
+
+    {
+      heading: "18. Final Remedies",
+      paragraphs: [
+        "At the conclusion of a commercial suit, the Commercial Court may grant the relief the case supports, including a money decree for recovery of amounts due, whether debt, price or damages; an award of damages for breach of contract or other actionable wrong; interest on the sum decreed; a decree for specific performance of a contract where the requirements of the Specific Relief Act, 1963 are satisfied; a declaration of rights or status; a permanent injunction restraining continuing or threatened breach; possession of property where the claim and evidence support it; an account of profits in appropriate cases such as certain intellectual property infringement claims; and an order as to costs.",
+
+        "Not every commercial suit will support every category of relief listed here, and the availability of any particular remedy depends on the cause of action pleaded and proved."
+      ]
+    },
+
+    {
+      heading: "19. Damages in Commercial Litigation",
+      paragraphs: [
+        "Proving damages in a commercial dispute requires more than establishing breach. A claimant must also establish causation, meaning that the loss flows from the breach and not from some other intervening cause.",
+
+        "The claimant must address remoteness, namely whether the loss was within the reasonable contemplation of the parties at the time of contracting, consistent with the principle in Hadley v. Baxendale as applied in Indian law through Section 73 of the Indian Contract Act, 1872.",
+
+        "The claimant must demonstrate that reasonable steps were taken to mitigate the loss and prove the quantum of loss with adequate evidence rather than by assertion.",
+
+        "Contracts frequently address damages directly through liquidated damages clauses, contractual caps on liability, and exclusion clauses for indirect or consequential loss.",
+
+        "Section 74 of the Indian Contract Act governs liquidated damages in Indian law. Where a sum is named in the contract as the amount payable on breach, the party complaining of breach is entitled to receive reasonable compensation not exceeding the amount so named, whether or not actual loss is proved.",
+
+        "Indian courts retain the power to scale the sum down where it is found to be a penalty disproportionate to any loss that could reasonably have been anticipated.",
+
+        "A liquidated damages clause is therefore a ceiling on recoverable compensation, not an automatic entitlement to that figure irrespective of the actual position.",
+
+        "Contractual limitation-of-liability and exclusion clauses are generally given effect according to their terms under Indian contract law, subject to established principles of contractual interpretation and any specific statutory constraints applicable to the relevant sector.",
+
+        "In practice, a damages claim stands or falls on documentary proof: invoices and payment records showing the loss actually incurred; correspondence showing notice of the loss to the counterparty; financial records or expert evidence quantifying loss of profit, increased cost of cover or other consequential loss; and, where mitigation is in issue, evidence of the steps taken or reasonably available but not taken to reduce the loss.",
+
+        "Businesses pursuing a damages claim should assemble this evidentiary record from the outset rather than treating quantum as a matter to be addressed only once liability is established."
+      ]
+    },
+
+    {
+      heading: "20. Interest",
+      paragraphs: [
+        "Interest in commercial litigation arises from several distinct sources, and it is important not to conflate them.",
+
+        "Contractual interest — a rate agreed in the contract for delayed payment — is generally enforced according to its terms, subject to applicable legal principles.",
+
+        "In the absence of a contractual rate, statutory interest may be claimed under the Interest Act, 1978 and, for commercial transactions specifically, businesses, particularly micro and small enterprises, should also consider whether the Micro, Small and Medium Enterprises Development Act, 2006 applies, as it prescribes a distinct statutory interest regime for delayed payments to eligible suppliers.",
+
+        "Courts distinguish between pre-suit interest, pendente lite interest and post-decree interest.",
+
+        "Pre-suit interest is interest accrued up to the date of filing and, where claimed as part of the cause of action, is generally included in specified value.",
+
+        "Pendente lite interest is interest for the period the suit is pending, awarded in the court's discretion having regard to prevailing commercial rates and the circumstances of the case.",
+
+        "Post-decree interest is interest from the date of decree until payment, also discretionary and commonly awarded at a rate the court considers reasonable with reference to prevailing commercial lending rates where the underlying transaction is commercial.",
+
+        "Courts have consistently recognised that in commercial transactions, interest at a rate reflecting the cost of commercial borrowing may be appropriate, rather than a nominal or token rate, though the ultimate rate awarded remains a matter of judicial discretion exercised on the facts."
+      ]
+    },
+
+    {
+      heading: "21. Costs",
+      paragraphs: [
+        "The Act amends Sections 35 and 35A CPC as applicable to commercial disputes, shifting from the traditional Indian practice of modest, largely nominal costs orders towards a \"costs follow the event\" principle intended to make realistic costs recovery available to a successful party and to discourage unmeritorious claims, defences and applications.",
+
+        "In assessing costs, courts are directed to have regard to the conduct of the parties, including whether a party made a frivolous claim, defence or counterclaim; whether a claim or defence was exaggerated; whether a party unreasonably refused to engage in pre-institution mediation or settlement discussions; whether a party's conduct caused unnecessary expense or delay, including through unnecessary or repeated interlocutory applications; and any non-disclosure or procedural default.",
+
+        "Businesses should treat the costs regime in commercial litigation as a genuine economic factor in litigation strategy — both as an incentive to litigate efficiently and in good faith, and as a real financial exposure where a claim, defence or application is pursued without proper basis."
+      ]
+    },
+
+    {
+      heading: "22. Appeals from Commercial Courts",
+      paragraphs: [
+        "Can every order of a Commercial Court be appealed?",
+
+        "No. Section 13 of the Act provides a right of appeal to the Commercial Appellate Division from a judgment or order of a Commercial Court or Commercial Division, but the proviso to Section 13(1A) restricts appeals against interlocutory orders to those categories of orders specifically enumerated as appealable under Order XLIII of the CPC and under Section 37 of the Arbitration and Conciliation Act, 1996.",
+
+        "Orders that fall outside those enumerated categories, and that do not finally dispose of the rights of the parties, are not independently appealable, and any challenge to them must generally await the final judgment or be pursued, in appropriate cases, through supervisory or writ jurisdiction, which operates on a different and narrower footing than a statutory appeal.",
+
+        "The Supreme Court in MITC Rolling Mills Private Limited v. Renuka Realtors, 2025 INSC 1300, clarified that an order rejecting a plaint under Order VII Rule 11 CPC is a decree that finally decides the litigation and is therefore appealable under Section 13(1A), notwithstanding that it is passed at a preliminary stage of the suit.",
+
+        "The proviso operates only to bar appeals against interlocutory orders specifically enumerated in Order XLIII CPC or Section 37 of the Arbitration Act and does not extend to orders that finally determine the lis.",
+
+        "Appeals under Section 13 must be filed within the limitation period prescribed by the Act, ordinarily 60 days from the date of the judgment or order appealed against, subject to the applicable statutory framework.",
+
+        "Where the underlying order arises out of arbitral proceedings relating to a commercial dispute of specified value, the appeal follows the specific route under Section 37 of the Arbitration and Conciliation Act, 1996 read with the Commercial Courts Act rather than an ordinary first appeal.",
+
+        "Because statutory appeal rights under Section 13 are deliberately narrow for interlocutory orders, parties sometimes attempt to invoke supervisory or writ jurisdiction under Articles 226 and 227 of the Constitution. Courts exercise considerable caution before entertaining such petitions against interlocutory orders in commercial suits because doing so may circumvent the restriction Parliament deliberately built into Section 13."
+      ]
+    },
+
+    {
+      heading: "23. Commercial Courts and Arbitration",
+      paragraphs: [
+        "Checking the arbitration clause in the underlying contract should be one of the first steps before filing a commercial suit because its presence can determine the forum and even the availability of civil litigation altogether.",
+
+        "Under Section 8 of the Arbitration and Conciliation Act, 1996, a judicial authority before which an action is brought in a matter that is the subject of a valid arbitration agreement must, on the application of a party made not later than the date of submitting its first statement on the substance of the dispute, refer the parties to arbitration, subject to the statutory framework governing such reference.",
+
+        "Where an arbitration agreement exists, a party may nonetheless approach the court for interim measures under Section 9, before, during or after arbitral proceedings but before enforcement of the award, in relation to matters such as preservation of property, interim injunctions or security for the amount in dispute.",
+
+        "Section 11 governs court-assisted appointment of an arbitrator where the parties' agreed appointment mechanism fails.",
+
+        "A challenge to an arbitral award is brought under Section 34, on the limited grounds specified in that section, and an appeal from specified orders lies under Section 37.",
+
+        "For commercial disputes of specified value, jurisdiction over applications under Sections 9, 34 and 37 and, in relation to international commercial arbitration, Section 11, is vested specifically in the Commercial Division of the High Court or the Commercial Court, as the case may be, by virtue of the Commercial Courts Act read with the Arbitration and Conciliation Act.",
+
+        "Enforcement of a domestic award proceeds as if it were a decree of the court once the time for challenge under Section 34 has expired or a challenge has been dismissed; enforcement of a foreign award proceeds under Part II of the Arbitration and Conciliation Act, subject to the statutory grounds of resistance.",
+
+        "Filing a civil suit where a valid and applicable arbitration agreement exists risks an early reference to arbitration under Section 8, with the accompanying cost and delay of having pursued the wrong forum in the first instance.",
+
+        "Commercial Court litigation and arbitration differ materially in forum, procedure, confidentiality, appeal and enforcement. Commercial Court litigation is conducted before a State-constituted court under the modified CPC framework, while arbitration is conducted before a private tribunal constituted under the parties' arbitration agreement and the Arbitration and Conciliation Act."
+      ]
+    },
+
+    {
+      heading: "24. Commercial Courts and Insolvency",
+      paragraphs: [
+        "Can commercial litigation and insolvency proceedings coexist?",
+
+        "Not straightforwardly, and businesses should avoid treating a commercial suit and an insolvency application under the Insolvency and Bankruptcy Code, 2016 as interchangeable routes to recovering a debt — they serve different purposes and trigger materially different consequences.",
+
+        "A commercial suit is a mechanism for establishing and enforcing a specific claim against a specific debtor, resulting, if successful, in a money decree that the creditor must then execute.",
+
+        "An application under Sections 7 or 9 of the IBC before the National Company Law Tribunal is not a debt-recovery mechanism in substance. The insolvency resolution process exists to determine whether the corporate debtor is viable and to resolve that question collectively for all creditors.",
+
+        "Once a CIRP is admitted, a moratorium under Section 14 of the IBC bars the institution or continuation of suits and other proceedings against the corporate debtor, including a pending commercial suit for recovery, which is effectively suspended for the duration of the moratorium.",
+
+        "The creditor's remedy shifts to filing a claim with the resolution professional to be dealt with within the collective insolvency process.",
+
+        "Section 238 of the IBC contains a non-obstante clause giving the Code overriding effect over other laws inconsistent with it, including, in the relevant respects, the Commercial Courts Act and the CPC.",
+
+        "The choice between filing a commercial suit and pursuing insolvency proceedings is therefore a genuine strategic decision, not a mere matter of preference.",
+
+        "Insolvency proceedings are generally unsuitable where the underlying debt is genuinely disputed on substantial grounds, since the NCLT is not the appropriate forum to adjudicate a bona fide dispute over liability.",
+
+        "A commercial suit, conversely, may be slower and does not, on its own, exert the same commercial pressure that the prospect of insolvency proceedings can exert on a genuinely insolvent or reluctant debtor."
+      ]
+    },
+
+    {
+      heading: "25. Commercial Courts and RERA",
+      paragraphs: [
+        "The interaction between Commercial Courts, the Real Estate (Regulation and Development) Act, 2016 (RERA) authorities and appellate tribunals, ordinary civil courts, arbitration and consumer forums in real-estate-related commercial disputes is genuinely forum-specific and does not admit of a single general rule.",
+
+        "Section 79 of RERA bars the jurisdiction of civil courts to entertain any suit or proceeding in respect of a matter which the RERA Authority or the Real Estate Appellate Tribunal is empowered to determine.",
+
+        "The bar is confined to matters that RERA specifically empowers those bodies to decide, chiefly registration-related matters, compensation and refund claims by allottees against promoters and related regulatory questions, and does not oust every civil remedy connected to a real estate transaction.",
+
+        "The Supreme Court, in Imperia Structures Ltd. v. Anil Patni (2020), held in the context of the Consumer Protection Act rather than a Commercial Courts Act suit, but on reasoning directly relevant to forum selection in this space, that RERA does not extinguish remedies available to an aggrieved party under other statutes, and that RERA and other remedial statutes can operate concurrently rather than one displacing the other by implication.",
+
+        "For a commercial dispute properly falling within Section 2(1)(c), for example, a dispute between a developer and a contractor under a construction agreement, or a dispute concerning immovable property actually used in trade or commerce between commercial counterparties, rather than a claim by an individual homebuyer against a promoter of the kind RERA specifically addresses, a Commercial Court can retain jurisdiction notwithstanding RERA's existence.",
+
+        "Because the boundary between what RERA occupies exclusively and what remains open to a Commercial Court or arbitration turns closely on the specific relief claimed and the specific parties and transaction involved, forum selection should be assessed on the particular facts.",
+
+        "The analysis should pay specific attention to whether the claimant is a promoter/developer or an allottee/homebuyer and whether the relief sought is one RERA is specifically empowered to grant."
+      ]
+    },
+
+    {
+      heading: "26. Commercial Courts and Intellectual Property",
+      paragraphs: [
+        "Trademark, copyright, patent, design, trade secret and confidential information disputes fall squarely within the intellectual property rights category of Section 2(1)(c) and, where the specified value threshold is met, are triable as commercial disputes before the Commercial Division of the High Court or a Commercial Court.",
+
+        "This has practical consequences distinct from IP litigation generally. Order XI disclosure obligations apply, requiring both a plaintiff asserting infringement and a defendant resisting it to disclose relevant documents at the outset, well before trial.",
+
+        "Order XIII-A summary judgment is available in appropriate IP cases where infringement or its absence is not genuinely in dispute.",
+
+        "Section 12A pre-institution mediation applies unless the suit genuinely contemplates urgent interim relief, which IP infringement claims frequently, though not automatically, do given the often ongoing and difficult-to-quantify nature of infringement harm.",
+
+        "Interim injunctive relief in IP matters continues to be assessed on the established prima facie case, balance of convenience and irreparable harm framework, informed by IP-specific considerations such as the strength and validity of the underlying registration, delay or acquiescence, and the availability of alternative protective measures.",
+
+        "Licensing disputes — over royalty payments, territorial exclusivity, quality-control obligations or termination of a technology or trademark licence — are separately and independently commercial disputes under Section 2(1)(c) and frequently arise alongside, or instead of, a pure infringement claim."
+      ]
+    },
+
+    {
+      heading: "27. Commercial Contract Litigation",
+      paragraphs: [
+        "Contract analysis should always precede the decision to litigate, not follow it.",
+
+        "Before drafting a plaint, or responding to one, counsel should work systematically through the underlying agreement.",
+
+        "The governing law clause should be reviewed because it determines the substantive law applicable to the dispute.",
+
+        "The jurisdiction clause should be assessed against the principles governing territorial jurisdiction.",
+
+        "The contract should be reviewed for arbitration and the scope of any arbitration clause.",
+
+        "Any tiered dispute-resolution mechanism, such as negotiation or mediation as a condition precedent to litigation or arbitration, should be identified and exhausted where legally required.",
+
+        "Termination provisions should be examined, including whether termination requires prior notice and a cure period and whether the termination actually relied upon complied with those requirements.",
+
+        "Indemnity clauses should be analysed to determine whether the loss claimed falls within their scope as distinct from a general damages claim.",
+
+        "Any limitation-of-liability clause capping or excluding categories of recoverable loss should be carefully considered.",
+
+        "Force majeure provisions should be examined to determine whether the facts genuinely engage them.",
+
+        "The contractual position on damages, including any liquidated damages clause, should be assessed.",
+
+        "The contractual position on interest should also be reviewed.",
+
+        "Finally, counsel should identify what evidence the contract itself generates or requires, including notices, certificates, approvals and meeting minutes, because those materials will likely become part of the litigation record.",
+
+        "A claim built without this analysis is exposed on grounds that are entirely avoidable — for example, a termination pleaded as valid where the contractually required notice and cure period were not observed, or a damages claim pleaded that falls outside a valid and applicable exclusion clause.",
+
+        "Businesses are well served by having counsel conduct this contract analysis before a notice of breach or termination is issued, not merely before a suit is filed, since the notice itself becomes part of the evidentiary record the court will scrutinise."
+      ]
+    },
+
+    {
+      heading: "28. Legal Notices Before Commercial Litigation",
+      paragraphs: [
+        "A legal notice serves several distinct purposes before commercial litigation.",
+
+        "It formally records the breach alleged, makes a clear demand for the relief sought, such as payment, performance or cessation of the offending conduct, can operate to effect or record termination of the contract where the contract requires notice of termination, and allows the sender to expressly reserve other rights and remedies that are not being exercised or waived by the notice itself.",
+
+        "A notice should avoid unnecessary or exaggerated allegations — sweeping assertions of fraud, bad faith or wide-ranging breach that are not, in substance, going to be pursued or proved — because an overstated notice can become a liability at trial.",
+
+        "The notice must also be consistent with what will later be pleaded in the plaint and proved in evidence: notice, plaint, evidence and arguments should tell one coherent and consistent story.",
+
+        "Divergence between what a notice alleges and what a plaint later pleads — a different date of breach, a different quantum or a different characterisation of the relevant obligation — is one of the common vulnerabilities exploited by opposing counsel in commercial litigation."
+      ]
+    },
+
+    {
+      heading: "29. Evidence and Litigation Preparation",
+      paragraphs: [
+        "A disciplined, early evidence-preservation exercise is one of the highest-value steps a business can take once a commercial dispute becomes reasonably likely.",
+
+        "Businesses should preserve executed contracts and all amendments, addenda and schedules; purchase orders and corresponding acceptances; invoices and delivery or acceptance records; bank statements and payment confirmations; correspondence by email and letter, including internal correspondence that may later be discoverable; WhatsApp and other messaging records relevant to the transaction; legal notices sent and received and replies to them; minutes or contemporaneous notes of meetings and calls where obligations, waivers or variations were discussed.",
+
+        "Technical reports, inspection reports and quality certificates are particularly important in construction, EPC and supply disputes.",
+
+        "Photographs and, where relevant, video or CCTV records should also be preserved.",
+
+        "Accounting and ERP system records evidencing the transaction history should be maintained.",
+
+        "Other electronic records, including cloud-stored files and system logs, should be preserved with attention to the Section 63 BSA certification requirements.",
+
+        "Where the dispute involves technical, valuation or quantum questions beyond the ordinary understanding of the court, expert evidence should be considered and experts should be engaged and briefed early enough that the expert's opinion is genuinely independent and properly reasoned rather than assembled hastily before trial."
+      ]
+    },
+
+    {
+      heading: "30. Common Mistakes Businesses Make",
+      paragraphs: [
+        "1. Filing in the wrong forum — instituting a suit in an ordinary civil court or vice versa without correctly assessing whether the dispute is a commercial dispute of specified value, resulting in objections, delay or return of the plaint.",
+
+        "2. Failing to calculate specified value correctly — miscalculating the claim value under Section 12, including omitting or wrongly including interest, leading to jurisdictional challenges.",
+
+        "3. Ignoring Section 12A — filing a suit without pre-institution mediation and without a genuine basis for urgent interim relief, risking rejection of the suit at the threshold.",
+
+        "4. Limitation problems — failing to account for limitation periods, including miscalculating the exclusion available for time spent in Section 12A mediation.",
+
+        "5. Missing the written statement deadline — allowing the 120-day outer limit to lapse, resulting in forfeiture of the right to contest the claim on the merits.",
+
+        "6. Poor document preservation — failing to preserve emails, chat records and system logs before they are lost through routine IT processes, undermining the Order XI disclosure position and the evidentiary case generally.",
+
+        "7. Weak damages evidence — pleading a damages figure without the documentary or expert support needed to prove causation, mitigation and quantum.",
+
+        "8. Ignoring the arbitration clause — filing a civil suit where a valid arbitration agreement governs the dispute, inviting an early reference to arbitration under Section 8.",
+
+        "9. Poor pleadings — vague and imprecise plaints and written statements that do not withstand scrutiny at the disclosure or summary judgment stage.",
+
+        "10. Excessive interim applications — pursuing interim relief as a matter of routine rather than on a genuine factual basis, inviting adverse costs orders and undermining credibility before the court.",
+
+        "11. Inconsistent notices and pleadings — allowing the legal notice, the plaint and the evidence later led to diverge, creating avoidable vulnerabilities on cross-examination.",
+
+        "12. Failure to preserve electronic evidence properly — losing metadata, failing to obtain a proper Section 63 BSA certificate or relying on screenshots rather than properly sourced records.",
+
+        "13. Failure to consider specialised statutory forums — pursuing a commercial suit where insolvency proceedings, RERA or another specialised forum may be the more appropriate or legally required route.",
+
+        "14. Ignoring enforcement prospects — obtaining a decree against a judgment debtor with no identifiable assets, having failed to assess enforceability before committing significant resources to litigation.",
+
+        "15. Treating litigation purely as a legal, rather than a commercial, decision — pursuing or resisting a claim without weighing cost, time, business relationship and settlement prospects alongside legal merits."
+      ]
+    },
+
+    {
+      heading: "31. Commercial Litigation Strategy",
+      paragraphs: [
+        "Litigation is, ultimately, a business decision, and it should be evaluated as one.",
+
+        "The legal merits of a claim or defence are only one input into that decision. A considered litigation strategy also weighs the strength and completeness of the available evidence, the realistic cost of pursuing or defending the matter through to judgment and, if necessary, appeal, the time the process is likely to take given the court's docket and the complexity of the dispute, and the effect of litigation on an ongoing business relationship with the counterparty.",
+
+        "The genuine prospects for a commercially acceptable settlement, including through Section 12A mediation itself, should be considered.",
+
+        "Businesses should also assess the practical prospects of enforcing any judgment obtained, any reputational considerations relevant to the business, the availability and effect of interim relief, whether arbitration is the governing or preferable route, whether insolvency proceedings against the counterparty are a more effective lever than civil litigation, and whether an alternative specialised forum offers a faster or more appropriate route to the relief actually required.",
+
+        "A useful framework is: legal merits + evidence + forum + procedure + economics + enforcement.",
+
+        "A claim can be legally strong and still commercially unwise to pursue if the evidence is thin, the forum is wrong, the procedural posture has already compromised it, the economics do not justify the likely cost and duration, or the counterparty has no assets against which any eventual decree could be enforced.",
+
+        "Businesses that treat each of these six elements as a discrete question to be answered before committing to litigation — rather than assuming that legal merit alone will carry the day — are better positioned to make a sound decision about whether, when and how to litigate."
+      ]
+    },
+
+    {
+      heading: "32. Commercial Litigation Checklist",
+      paragraphs: [
+        "A. Dispute — Has the breach or wrong been precisely identified? Against whom, and on what date did it occur?",
+
+        "B. Contract — Has the governing agreement been reviewed for jurisdiction, arbitration, termination, notice, cure period, indemnity, limitation of liability and force majeure provisions?",
+
+        "C. Jurisdiction — Has territorial, pecuniary and subject-matter jurisdiction each been separately confirmed?",
+
+        "D. Limitation — Is the claim within limitation, accounting for any exclusion for Section 12A mediation?",
+
+        "E. Specified Value — Has the claim value been calculated correctly under Section 12, and does it meet the applicable threshold?",
+
+        "F. Mediation — Does the suit genuinely contemplate urgent interim relief, or must pre-institution mediation under Section 12A be completed first?",
+
+        "G. Arbitration — Does a valid and applicable arbitration agreement govern this dispute?",
+
+        "H. Evidence — Has all relevant documentary and electronic evidence been identified, preserved and, for electronic records, properly certified?",
+
+        "I. Remedies — What interim and final remedies are realistically available and appropriate on these facts?",
+
+        "J. Commercial Strategy — Have cost, time, business relationship, settlement prospects and reputational considerations been weighed alongside legal merit?",
+
+        "K. Enforcement — Does the counterparty have identifiable, reachable assets against which a decree could realistically be enforced?"
+      ]
+    },
+
+    {
+      heading: "33. Decision Tree: From Business Dispute to Execution",
+      paragraphs: [
+        "BUSINESS DISPUTE",
+
+        "↓",
+
+        "IS IT A COMMERCIAL DISPUTE? — Section 2(1)(c)",
+
+        "↓",
+
+        "DOES IT MEET SPECIFIED VALUE? — Applicable statutory threshold",
+
+        "↓",
+
+        "IS TERRITORIAL JURISDICTION CORRECT?",
+
+        "↓",
+
+        "IS THE SUBJECT-MATTER FORUM CORRECT?",
+
+        "↓",
+
+        "IS THERE A VALID ARBITRATION CLAUSE?",
+
+        "↓",
+
+        "DOES A SPECIALISED STATUTORY FORUM APPLY? — IBC / RERA / other",
+
+        "↓",
+
+        "DOES SECTION 12A MEDIATION APPLY?",
+
+        "↓",
+
+        "IS URGENT INTERIM RELIEF GENUINELY CONTEMPLATED?",
+
+        "↓",
+
+        "PRESERVE EVIDENCE",
+
+        "↓",
+
+        "DRAFT PLEADINGS — PLAINT / WRITTEN STATEMENT",
+
+        "↓",
+
+        "DISCLOSURE / DISCOVERY / INSPECTION — ORDER XI",
+
+        "↓",
+
+        "CASE MANAGEMENT HEARING — ORDER XV-A",
+
+        "↓",
+
+        "TRIAL — OR SUMMARY JUDGMENT — ORDER XIII-A",
+
+        "↓",
+
+        "JUDGMENT",
+
+        "↓",
+
+        "APPEAL — SECTION 13, WHERE MAINTAINABLE",
+
+        "↓",
+
+        "EXECUTION — ORDER XXI"
+      ]
+    },
+
+    {
+      heading: "34. Frequently Asked Questions",
+      paragraphs: [
+        "1. What is a Commercial Court in India?",
+
+        "A Commercial Court is a specialised civil court constituted under the Commercial Courts Act, 2015 that exclusively tries commercial disputes of specified value and follows a modified, expedited procedure distinct from ordinary civil litigation.",
+
+        "2. What is the Commercial Courts Act, 2015?",
+
+        "It is the legislation that establishes Commercial Courts, Commercial Divisions of High Courts and Commercial Appellate Divisions and prescribes specialised procedures, including pre-institution mediation, disclosure, case management and summary judgment, applicable to commercial disputes of specified value. It was substantially amended in 2018.",
+
+        "3. What is a commercial dispute?",
+
+        "A commercial dispute is a dispute falling within one of the categories defined in Section 2(1)(c) of the Act — including transactions of merchants and traders, construction and infrastructure contracts, franchising, distribution, licensing, joint ventures, shareholders' agreements, intellectual property and qualifying immovable-property disputes, among others.",
+
+        "4. Does a dispute involving a company automatically become a commercial dispute?",
+
+        "No. The corporate status of a party is irrelevant. What matters is whether the subject matter of the dispute falls within the transactional categories defined in Section 2(1)(c).",
+
+        "5. What is specified value?",
+
+        "Specified value is the value of the subject matter of a commercial dispute, calculated under Section 12 of the Act, which must meet the statutory threshold for the dispute to be triable as a commercial dispute.",
+
+        "6. What is the current specified-value threshold?",
+
+        "As of August 2026, the threshold is ₹3,00,000, fixed by the 2018 amendment to the Act and reduced from the original 2015 threshold of ₹1 crore.",
+
+        "7. How is specified value calculated?",
+
+        "Under Section 12, specified value is calculated with reference to the money claimed, including interest claimed up to the date of filing, the market value of immovable property involved or the market value of the subject matter for non-monetary relief, with the statutory method applying where multiple forms of relief are combined.",
+
+        "8. Is pre-institution mediation mandatory?",
+
+        "Yes, for commercial suits that do not contemplate urgent interim relief, pre-institution mediation under Section 12A is mandatory, as the Supreme Court held in Patil Automation v. Rakheja Engineers, (2022) 10 SCC 1.",
+
+        "9. Can a commercial suit be filed without mediation?",
+
+        "Only where the suit genuinely contemplates urgent interim relief, assessed on the specific facts pleaded, as clarified by the Supreme Court in Yamini Manohar v. T.K.D. Keerthi (2023). A pretextual urgency plea does not qualify for the exception.",
+
+        "10. What is urgent interim relief?",
+
+        "It refers to interim relief, such as an injunction to prevent imminent and irreparable harm, that the plaint genuinely and objectively requires without the delay pre-institution mediation would involve. The presence of an injunction prayer alone is not sufficient.",
+
+        "11. What is the 120-day written statement rule?",
+
+        "A defendant in a commercial suit must file its written statement within 30 days of service of summons, extendable by the court only up to a strict outer limit of 120 days from service, beyond which the right to file is forfeited.",
+
+        "12. Can the written statement be filed after 120 days?",
+
+        "No. The Supreme Court has held, in SCG Contracts India v. K.S. Chamankar Infrastructure, (2019) 12 SCC 210, and reaffirmed since, that courts have no discretion to take a written statement on record beyond 120 days from service of summons.",
+
+        "13. What is discovery?",
+
+        "Discovery is the process under Order XI by which a party may seek production or particulars of specific documents believed to be in the possession of the opposing party, beyond what has already been voluntarily disclosed.",
+
+        "14. What is disclosure?",
+
+        "Disclosure is the mandatory, upfront obligation under Order XI requiring both plaintiff and defendant to list and produce all documents relevant to the dispute in their power, possession or control, including documents adverse to their own case, filed along with the plaint or written statement.",
+
+        "15. What is summary judgment?",
+
+        "Summary judgment under Order XIII-A allows a Commercial Court to decide a claim or defence without a full trial where there is no real prospect of success or defence and no other compelling reason for a trial, applying the principles explained by the Supreme Court in Reliance Eminent Trading v. DDA, 2026 INSC 436.",
+
+        "16. Can a Commercial Court grant an injunction?",
+
+        "Yes, subject to the ordinary requirements of prima facie case, balance of convenience and irreparable harm, whether at the interim stage under Order XXXIX or as a final permanent injunction after trial.",
+
+        "17. Can a Commercial Court award damages?",
+
+        "Yes, where breach, causation and quantum of loss are established, subject to principles relating to remoteness, mitigation and any applicable liquidated damages or exclusion clauses.",
+
+        "18. Can a Commercial Court grant specific performance?",
+
+        "Yes, where the requirements of the Specific Relief Act, 1963, as amended in 2018, are met, subject to statutory conditions and exceptions.",
+
+        "19. Can interest be claimed?",
+
+        "Yes — contractual interest where agreed, statutory interest where applicable, including under the MSME Development Act, 2006 for eligible suppliers, and pendente lite and post-decree interest at the court's discretion.",
+
+        "20. Can electronic evidence be used?",
+
+        "Yes. Electronic evidence, including emails, WhatsApp messages, electronic contracts and accounting records, is admissible under Section 63 of the Bharatiya Sakshya Adhiniyam, 2023, subject to the statutory conditions and certificate requirements.",
+
+        "21. Are WhatsApp messages relevant in commercial litigation?",
+
+        "Yes, where they are relevant to the transaction in dispute, subject to being properly proved and certified as electronic records under Section 63 of the BSA, 2023.",
+
+        "22. Are all Commercial Court orders appealable?",
+
+        "No. Section 13(1A) permits appeals from judgments and orders, but its proviso restricts appeals against interlocutory orders to those specifically enumerated under Order XLIII CPC and Section 37 of the Arbitration and Conciliation Act, 1996. Orders finally deciding the lis, such as rejection of a plaint, remain appealable even at a preliminary stage, as clarified in MITC Rolling Mills v. Renuka Realtors, 2025 INSC 1300.",
+
+        "23. Where is an appeal from a Commercial Court filed?",
+
+        "Before the Commercial Appellate Division of the concerned High Court, within the limitation period prescribed by the Act.",
+
+        "24. Can a commercial dispute be referred to arbitration?",
+
+        "Yes. Where a valid arbitration agreement covers the dispute, a party may apply under Section 8 of the Arbitration and Conciliation Act, 1996 for reference to arbitration, subject to the statutory requirements.",
+
+        "25. Can commercial litigation and insolvency proceedings coexist?",
+
+        "Generally not for the same debt at the same time. Once a CIRP is admitted under the IBC, a moratorium bars continuation of a pending suit against the corporate debtor, and the two are not interchangeable remedies.",
+
+        "26. Can real estate disputes be commercial disputes?",
+
+        "Yes, where the immovable property is actually used exclusively in trade or commerce and the transaction otherwise falls within Section 2(1)(c), though disputes squarely within RERA's remit may be subject to the statutory bar on civil court jurisdiction.",
+
+        "27. Are intellectual property disputes commercial disputes?",
+
+        "Yes. Trademark, patent, copyright, design and related IP disputes are expressly included within the Section 2(1)(c) definition of commercial dispute.",
+
+        "28. How long does a commercial suit take?",
+
+        "There is no fixed universal timeline. Duration depends on the complexity of the dispute, the court's docket and how efficiently the parties engage with disclosure, case management and, where applicable, summary judgment. The statutory framework is designed to compress timelines compared with ordinary civil litigation.",
+
+        "29. Can a commercial suit be settled?",
+
+        "Yes, at any stage — including through Section 12A pre-institution mediation, negotiated settlement, court-annexed mediation or a settlement recorded and decreed by the court.",
+
+        "30. What documents should a business preserve?",
+
+        "Executed contracts and amendments, purchase orders, invoices, payment records, correspondence including email and messaging records, notices and replies, meeting records, technical reports and relevant electronic and accounting records should be preserved and, where applicable, certified in accordance with the evidentiary requirements.",
+
+        "31. What should a company do before filing a commercial suit?",
+
+        "Confirm that the dispute is commercial and meets specified value, confirm jurisdiction, review the contract for arbitration and dispute-resolution clauses, check limitation, assess whether Section 12A mediation is required and preserve all relevant evidence.",
+
+        "32. How should a business calculate its litigation risk?",
+
+        "By weighing legal merits against the strength of available evidence, the correct forum and procedural posture, the realistic cost and duration of the litigation, the effect on the business relationship, settlement prospects and, critically, the practical prospects of enforcing any judgment against the counterparty's actual assets."
+      ]
+    },
+
+    {
+      heading: "Conclusion",
+      paragraphs: [
+        "Commercial Courts in India now sit at the centre of how businesses resolve disputes arising from contracts, transactions and commercial relationships.",
+
+        "The Commercial Courts Act, 2015, as substantially reshaped by the 2018 amendment, has moved commercial litigation away from the open-ended timelines of ordinary civil practice towards a framework built on early, reciprocal disclosure, mandatory pre-institution mediation subject to a genuinely urgent interim relief exception, a hard outer limit on written statements, structured case management and the availability of summary judgment where a trial serves no real purpose.",
+
+        "Recent Supreme Court decisions — on the mandatory character of Section 12A, on the strict application of the 120-day written statement rule, on the guidelines governing summary judgment under Order XIII-A, and on the scope of appeal rights under Section 13(1A) — continue to sharpen and, in places, tighten this framework.",
+
+        "The central practical lesson is that commercial litigation in India rewards procedural discipline as much as substantive legal merit.",
+
+        "For a business facing, or contemplating, a commercial dispute, jurisdiction, specified value, the arbitration clause, the Section 12A mediation requirement, limitation and evidence preservation must all be assessed correctly and early — not worked out reactively after a suit has already been filed or a written statement is already overdue.",
+
+        "Handled with that discipline, the Commercial Courts framework offers businesses a more structured and predictable route to resolving commercial disputes than the ordinary civil process it was designed to improve upon."
+      ]
+    },
+
+    {
+      heading: "Legal Disclaimer",
+      paragraphs: [
+        "This article is intended for general informational and educational purposes only and does not constitute legal advice. Commercial litigation is fact-specific, and the applicable law may change through legislation, rules, notifications and judicial decisions. Legal advice should be obtained based on the specific facts and circumstances of a dispute."
+      ]
+    },
+
+    {
+      heading: "About Quartz Legal Associates",
+      paragraphs: [
+        "Quartz Legal Associates advises businesses and stakeholders on commercial and corporate disputes, contractual litigation, arbitration, insolvency, real estate and infrastructure disputes, and proceedings before courts and specialised tribunals."
+      ]
+    }
+  ]
+},
 ]
+
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((article) => article.slug === slug)
 }
