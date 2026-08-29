@@ -2009,6 +2009,809 @@ export const articles: Article[] = [
     }
   ]
 },
+{
+  slug: "what-is-a-commercial-dispute-under-indian-law",
+  title: "What Is a Commercial Dispute Under Indian Law?",
+  category: "Commercial & Corporate Litigation",
+  date: "29 August 2026",
+  excerpt:
+    "A comprehensive guide to what constitutes a commercial dispute under Indian law, including Section 2(1)(c) of the Commercial Courts Act, specified value, jurisdiction, arbitration and pre-institution mediation.",
+  readTime: "20 min read",
+  author: "Advocate Abhishek Kumar",
+  sections: [
+    {
+      heading: "Introduction",
+      paragraphs: [
+        "Not every dispute involving a company, businessman or commercial transaction is a commercial dispute under Indian law.",
+        "Whether a dispute qualifies as a commercial dispute is legally significant because it can determine the applicable procedural framework, the court that may have jurisdiction, the applicability of the Commercial Courts Act, 2015, the requirement of pre-institution mediation, and the procedural rules governing the litigation.",
+        "The Commercial Courts Act, 2015 (\"Commercial Courts Act\") provides a statutory definition of the expression \"commercial dispute\" in Section 2(1)(c).",
+        "The definition covers a wide range of business and commercial relationships, including disputes arising from contracts between merchants and traders, commercial transactions, construction and infrastructure projects, shareholders' agreements, joint ventures, licensing and distribution arrangements, intellectual property rights, insurance and other specified commercial relationships.",
+        "However, determining whether a particular dispute is commercial is not always straightforward.",
+        "A dispute may arise between two companies but still not qualify as a commercial dispute. Conversely, a dispute involving an individual may qualify as a commercial dispute if it arises from a transaction falling within the statutory definition.",
+        "The correct approach is therefore to examine the nature of the dispute and the underlying transaction, rather than merely the identity of the parties."
+      ]
+    },
+
+    {
+      heading: "1. What Is a Commercial Dispute?",
+      paragraphs: [
+        "Section 2(1)(c) of the Commercial Courts Act defines \"commercial dispute\" by reference to specified categories of transactions and relationships.",
+        "In simple terms, a commercial dispute is a dispute arising from a commercial relationship or transaction of the kind recognised by the statute.",
+        "Examples may include:",
+        "• supply agreements;",
+        "• distribution agreements;",
+        "• franchise arrangements;",
+        "• construction contracts;",
+        "• infrastructure projects;",
+        "• shareholder agreements;",
+        "• joint ventures;",
+        "• commercial agency arrangements;",
+        "• licensing agreements;",
+        "• intellectual property rights;",
+        "• insurance;",
+        "• partnership arrangements;",
+        "• investment agreements;",
+        "• commercial property transactions; and",
+        "• other specified commercial transactions.",
+        "The statutory definition is deliberately broad because modern business transactions can take many forms."
+      ]
+    },
+
+    {
+      heading: "2. Why Does It Matter Whether a Dispute Is Commercial?",
+      paragraphs: [
+        "Classification as a commercial dispute can have significant procedural consequences.",
+        "Where the statutory requirements are satisfied, the dispute may fall within the framework of the Commercial Courts Act.",
+        "This can affect:",
+        "• the appropriate forum;",
+        "• pecuniary and specified-value requirements;",
+        "• pre-institution mediation;",
+        "• pleadings;",
+        "• disclosure of documents;",
+        "• inspection;",
+        "• statements of truth;",
+        "• case management;",
+        "• summary judgment;",
+        "• costs;",
+        "• appeals; and",
+        "• other procedural matters.",
+        "Therefore, the question \"Is this a commercial dispute?\" should ordinarily be answered before deciding where and how to institute proceedings."
+      ]
+    },
+
+    {
+      heading: "3. Section 2(1)(c) of the Commercial Courts Act",
+      paragraphs: [
+        "Section 2(1)(c) provides the statutory definition of \"commercial dispute.\"",
+        "The provision identifies several categories of disputes.",
+        "The principal categories can be understood as follows."
+      ]
+    },
+
+    {
+      heading: "4. Disputes Arising Out of Ordinary Transactions of Merchants, Bankers, Financiers and Traders",
+      paragraphs: [
+        "Commercial disputes commonly arise from ordinary business transactions.",
+        "Examples include:",
+        "• sale and purchase of goods;",
+        "• supply of raw materials;",
+        "• wholesale transactions;",
+        "• financing arrangements;",
+        "• banking transactions;",
+        "• trading arrangements;",
+        "• payment obligations;",
+        "• credit facilities; and",
+        "• business-to-business service agreements.",
+        "Example",
+        "Company A supplies machinery to Company B under a written supply contract.",
+        "Company B receives the machinery but fails to pay the outstanding purchase price.",
+        "A dispute concerning payment under the supply transaction may fall within the statutory concept of a commercial dispute, subject to the other applicable requirements."
+      ]
+    },
+
+    {
+      heading: "5. Export and Import Transactions",
+      paragraphs: [
+        "Disputes relating to import and export transactions may also fall within the statutory definition.",
+        "Examples include:",
+        "• non-delivery of exported goods;",
+        "• defective imported goods;",
+        "• payment disputes;",
+        "• letters of credit;",
+        "• shipping obligations;",
+        "• customs-related contractual consequences;",
+        "• international supply agreements; and",
+        "• disputes between exporters and importers.",
+        "Cross-border transactions may additionally involve:",
+        "• jurisdiction issues;",
+        "• governing-law clauses;",
+        "• arbitration;",
+        "• foreign judgments;",
+        "• international arbitration; and",
+        "• enforcement considerations."
+      ]
+    },
+
+    {
+      heading: "6. Construction and Infrastructure Disputes",
+      paragraphs: [
+        "Construction and infrastructure projects are a major source of commercial litigation in India.",
+        "Disputes may arise from:",
+        "• EPC contracts;",
+        "• construction agreements;",
+        "• infrastructure contracts;",
+        "• engineering contracts;",
+        "• procurement contracts;",
+        "• project-management agreements;",
+        "• contractor and subcontractor arrangements;",
+        "• delay;",
+        "• cost escalation;",
+        "• defective work;",
+        "• variation orders;",
+        "• payment certificates;",
+        "• performance guarantees; and",
+        "• termination.",
+        "Example",
+        "A developer appoints a contractor to construct a commercial project.",
+        "The contractor alleges that the developer failed to make contractual payments, while the developer alleges delay and defective performance.",
+        "Such disputes may fall within the commercial-dispute framework, depending on the nature of the transaction and the statutory requirements."
+      ]
+    },
+
+    {
+      heading: "7. Commercial Property Disputes",
+      paragraphs: [
+        "The Commercial Courts Act also recognises certain disputes relating to immovable property used exclusively in trade or commerce.",
+        "This is an important qualification.",
+        "The fact that a dispute concerns immovable property does not automatically make it a commercial dispute.",
+        "The statutory test concerning the use of the property must be considered.",
+        "Examples",
+        "Potentially commercial matters may include disputes concerning:",
+        "• commercial buildings;",
+        "• office premises;",
+        "• warehouses;",
+        "• factories;",
+        "• business premises;",
+        "• shopping centres; and",
+        "• other property used exclusively for commercial purposes.",
+        "However, the precise nature of the dispute and the statutory requirements must be examined."
+      ]
+    },
+
+    {
+      heading: "8. Franchising Agreements",
+      paragraphs: [
+        "Franchise relationships frequently generate commercial disputes.",
+        "Typical disputes concern:",
+        "• franchise fees;",
+        "• royalty payments;",
+        "• territorial rights;",
+        "• use of trademarks;",
+        "• operational obligations;",
+        "• supply arrangements;",
+        "• termination;",
+        "• exclusivity;",
+        "• non-compete provisions; and",
+        "• post-termination obligations.",
+        "Example",
+        "A franchisor terminates a franchise agreement alleging breach of operational requirements.",
+        "The franchisee disputes the termination and seeks damages and other relief.",
+        "The dispute may fall within the statutory commercial-dispute framework."
+      ]
+    },
+
+    {
+      heading: "9. Distribution and Licensing Agreements",
+      paragraphs: [
+        "Distribution and licensing arrangements are specifically relevant to commercial disputes.",
+        "Distribution disputes",
+        "These may involve:",
+        "• appointment of distributors;",
+        "• territory;",
+        "• minimum purchase obligations;",
+        "• payment;",
+        "• exclusivity;",
+        "• termination;",
+        "• stock;",
+        "• commission; and",
+        "• post-termination obligations.",
+        "Licensing disputes",
+        "Licensing disputes may concern:",
+        "• software;",
+        "• technology;",
+        "• trademarks;",
+        "• copyrighted material;",
+        "• patents;",
+        "• know-how;",
+        "• brands;",
+        "• commercial content; or",
+        "• other intellectual property.",
+        "The contractual nature of the arrangement is central to classification."
+      ]
+    },
+
+    {
+      heading: "10. Management and Consultancy Agreements",
+      paragraphs: [
+        "Businesses regularly appoint external professionals or organisations to provide management or consultancy services.",
+        "Disputes may involve:",
+        "• professional fees;",
+        "• performance obligations;",
+        "• termination;",
+        "• confidentiality;",
+        "• intellectual property;",
+        "• non-solicitation;",
+        "• liability;",
+        "• indemnification; and",
+        "• breach of contractual obligations.",
+        "Such disputes may fall within the statutory commercial framework where they arise from the specified commercial relationship."
+      ]
+    },
+
+    {
+      heading: "11. Joint Venture Disputes",
+      paragraphs: [
+        "Joint ventures often involve multiple contractual and corporate relationships.",
+        "Disputes may arise concerning:",
+        "• ownership;",
+        "• contribution obligations;",
+        "• management rights;",
+        "• funding;",
+        "• profit distribution;",
+        "• board representation;",
+        "• deadlock;",
+        "• exit rights;",
+        "• transfer restrictions;",
+        "• reserved matters;",
+        "• intellectual property; and",
+        "• termination.",
+        "A joint venture dispute may also involve questions concerning arbitration or the jurisdiction of the National Company Law Tribunal, depending on its precise nature.",
+        "Therefore, simply describing a matter as a \"joint venture dispute\" does not eliminate the need for a forum analysis."
+      ]
+    },
+
+    {
+      heading: "12. Shareholders' Agreement Disputes",
+      paragraphs: [
+        "Shareholders' agreements are another important category.",
+        "Disputes may involve:",
+        "• voting rights;",
+        "• transfer restrictions;",
+        "• tag-along rights;",
+        "• drag-along rights;",
+        "• reserved matters;",
+        "• board rights;",
+        "• investor protections;",
+        "• exit provisions;",
+        "• valuation;",
+        "• dilution;",
+        "• deadlock; and",
+        "• breach of shareholder obligations.",
+        "However, shareholder disputes require careful analysis because some corporate disputes may fall within the jurisdiction of the National Company Law Tribunal under the Companies Act, 2013.",
+        "The existence of a shareholders' agreement does not automatically determine the forum."
+      ]
+    },
+
+    {
+      heading: "13. Partnership Disputes",
+      paragraphs: [
+        "Partnership-related commercial disputes may include:",
+        "• accounts;",
+        "• profit sharing;",
+        "• dissolution;",
+        "• breach of partnership obligations;",
+        "• retirement;",
+        "• expulsion;",
+        "• partnership assets;",
+        "• authority of partners;",
+        "• competing business;",
+        "• misuse of partnership property; and",
+        "• settlement of accounts.",
+        "The Partnership Act, 1932 and the Commercial Courts Act may both become relevant depending on the dispute."
+      ]
+    },
+
+    {
+      heading: "14. Investment and Subscription Agreements",
+      paragraphs: [
+        "Modern business transactions frequently involve:",
+        "• investment agreements;",
+        "• share subscription agreements;",
+        "• private equity transactions;",
+        "• venture capital investments;",
+        "• convertible instruments;",
+        "• term sheets;",
+        "• exit arrangements; and",
+        "• investor rights.",
+        "Disputes may concern:",
+        "• representations and warranties;",
+        "• conditions precedent;",
+        "• closing obligations;",
+        "• indemnities;",
+        "• valuation;",
+        "• warranties;",
+        "• exit rights;",
+        "• breach of investment terms; and",
+        "• misrepresentation.",
+        "The contractual structure should be examined carefully to determine the appropriate remedy and forum."
+      ]
+    },
+
+    {
+      heading: "15. Intellectual Property Disputes",
+      paragraphs: [
+        "Intellectual property rights form a significant category of commercial disputes.",
+        "Trademark disputes",
+        "• infringement;",
+        "• passing off;",
+        "• unauthorised use;",
+        "• domain names;",
+        "• brand misuse.",
+        "Copyright disputes",
+        "• unauthorised reproduction;",
+        "• software;",
+        "• literary works;",
+        "• artistic works;",
+        "• digital content.",
+        "Patent disputes",
+        "• infringement;",
+        "• licensing;",
+        "• technology agreements;",
+        "• exploitation rights.",
+        "Confidential information and trade secrets",
+        "• unauthorised disclosure;",
+        "• employee misuse;",
+        "• competitor misuse;",
+        "• contractual confidentiality breaches.",
+        "IP disputes can be particularly urgent because continued infringement may cause ongoing commercial damage."
+      ]
+    },
+
+    {
+      heading: "16. Insurance and Reinsurance Disputes",
+      paragraphs: [
+        "Insurance disputes may also fall within the statutory definition of commercial dispute.",
+        "Examples include disputes concerning:",
+        "• business interruption insurance;",
+        "• property insurance;",
+        "• marine insurance;",
+        "• industrial insurance;",
+        "• liability insurance;",
+        "• professional indemnity;",
+        "• reinsurance;",
+        "• claim rejection;",
+        "• policy interpretation; and",
+        "• coverage.",
+        "The precise forum and procedure will depend on the nature of the claim and applicable statutory framework."
+      ]
+    },
+
+    {
+      heading: "17. Commercial Agency Disputes",
+      paragraphs: [
+        "Commercial agency arrangements may generate disputes concerning:",
+        "• commission;",
+        "• authority;",
+        "• territory;",
+        "• appointment;",
+        "• termination;",
+        "• customer relationships;",
+        "• exclusivity;",
+        "• indemnity; and",
+        "• post-termination obligations.",
+        "Where the relationship falls within the statutory framework, the dispute may qualify as a commercial dispute."
+      ]
+    },
+
+    {
+      heading: "18. Does a Dispute Between Two Companies Automatically Become a Commercial Dispute?",
+      paragraphs: [
+        "No.",
+        "This is one of the most important principles for businesses to understand.",
+        "The identity of the parties is not, by itself, determinative.",
+        "For example:",
+        "Company A sues Company B.",
+        "That fact alone does not establish that the matter is a commercial dispute.",
+        "The court must examine the substance and nature of the dispute and whether it falls within Section 2(1)(c).",
+        "Conversely, an individual may be involved in a commercial dispute if the underlying transaction satisfies the statutory definition."
+      ]
+    },
+
+    {
+      heading: "19. Does Every Contractual Dispute Qualify as a Commercial Dispute?",
+      paragraphs: [
+        "No.",
+        "A contractual dispute must be examined in context.",
+        "The fact that a written agreement exists does not automatically bring every dispute under the Commercial Courts Act.",
+        "The underlying transaction must fall within the statutory definition of a commercial dispute.",
+        "For example, a purely personal agreement may not become commercial merely because one of the parties happens to operate a business."
+      ]
+    },
+
+    {
+      heading: "20. Commercial Dispute vs Civil Dispute",
+      paragraphs: [
+        "The distinction can be illustrated as follows:",
+        "Commercial Dispute — Arises from a transaction recognised as commercial.",
+        "Ordinary Civil Dispute — May arise from non-commercial or private matters.",
+        "Commercial Dispute — Governed by the Commercial Courts framework where applicable.",
+        "Ordinary Civil Dispute — Generally governed by ordinary civil procedure.",
+        "Commercial Dispute — Special procedural provisions may apply.",
+        "Ordinary Civil Dispute — Ordinary procedural framework generally applies.",
+        "Commercial Dispute — Section 12A may become relevant.",
+        "Ordinary Civil Dispute — Section 12A generally does not apply.",
+        "Commercial Dispute — Enhanced disclosure and case management.",
+        "Ordinary Civil Dispute — Ordinary procedural framework.",
+        "Commercial Dispute — Commercial appellate framework may apply.",
+        "Ordinary Civil Dispute — Ordinary appellate framework.",
+        "The classification depends on the facts and statutory provisions."
+      ]
+    },
+
+    {
+      heading: "21. Commercial Dispute vs Corporate Dispute",
+      paragraphs: [
+        "The terms \"commercial dispute\" and \"corporate dispute\" are sometimes used interchangeably in business discussions.",
+        "They are not necessarily identical.",
+        "A corporate dispute may concern:",
+        "• management;",
+        "• oppression;",
+        "• mismanagement;",
+        "• shareholder rights;",
+        "• directorial powers;",
+        "• corporate governance; or",
+        "• statutory company-law remedies.",
+        "Certain corporate disputes fall within the jurisdiction of the NCLT.",
+        "At the same time, contractual disputes between shareholders or corporate participants may raise questions under the Commercial Courts Act.",
+        "Therefore, the correct forum cannot be selected merely by labelling a dispute \"commercial\" or \"corporate.\""
+      ]
+    },
+
+    {
+      heading: "22. Commercial Dispute vs Insolvency Dispute",
+      paragraphs: [
+        "A company may owe money under a commercial contract.",
+        "The creditor may then consider:",
+        "• a commercial suit;",
+        "• arbitration;",
+        "• an MSME remedy;",
+        "• insolvency proceedings; or",
+        "• another statutory mechanism.",
+        "An insolvency proceeding under the IBC has a different statutory purpose from an ordinary debt-recovery suit.",
+        "Accordingly, businesses should analyse the available remedies rather than assuming that every unpaid commercial debt should be pursued through a commercial suit."
+      ]
+    },
+
+    {
+      heading: "23. Commercial Dispute and Arbitration",
+      paragraphs: [
+        "A dispute can fall within the concept of a commercial dispute while also being subject to an arbitration agreement.",
+        "The two concepts are not mutually exclusive.",
+        "For example:",
+        "A company and supplier enter into a commercial supply agreement containing an arbitration clause.",
+        "A payment dispute arising under the agreement may be a commercial dispute in substance, but the contractual arbitration agreement may determine the appropriate dispute-resolution mechanism.",
+        "Therefore, before instituting a commercial suit, counsel should always review the arbitration clause."
+      ]
+    },
+
+    {
+      heading: "24. Does the Commercial Courts Act Apply to Every Commercial Dispute?",
+      paragraphs: [
+        "No.",
+        "Several requirements must be satisfied.",
+        "Among the issues that may need examination are:",
+        "1. whether the dispute falls within Section 2(1)(c);",
+        "2. whether the specified-value requirement is satisfied;",
+        "3. which court has jurisdiction;",
+        "4. whether another statute confers exclusive jurisdiction on a specialised forum;",
+        "5. whether arbitration applies;",
+        "6. whether pre-institution mediation is required; and",
+        "7. whether any statutory exclusion or limitation applies.",
+        "Classification is therefore only the first stage of the analysis."
+      ]
+    },
+
+    {
+      heading: "25. What Is the Role of Specified Value?",
+      paragraphs: [
+        "The Commercial Courts Act connects its application to the concept of specified value.",
+        "A commercial dispute falling within the statutory definition must also satisfy the applicable value requirement for the relevant commercial-court framework.",
+        "The calculation of specified value can become complicated in cases involving:",
+        "• damages;",
+        "• interest;",
+        "• declarations;",
+        "• injunctions;",
+        "• multiple reliefs;",
+        "• counterclaims;",
+        "• property;",
+        "• foreign currency; and",
+        "• non-monetary relief.",
+        "The valuation should therefore be undertaken carefully at the time of filing."
+      ]
+    },
+
+    {
+      heading: "26. Commercial Disputes and Pre-Institution Mediation",
+      paragraphs: [
+        "Section 12A of the Commercial Courts Act provides for pre-institution mediation in applicable commercial disputes where urgent interim relief is not contemplated.",
+        "This means that determining whether a dispute is commercial can have a direct procedural consequence.",
+        "If a dispute qualifies as a commercial dispute and the statutory requirements are otherwise satisfied, the plaintiff may need to undergo the prescribed pre-institution mediation process before filing the suit.",
+        "The urgency exception must be assessed carefully."
+      ]
+    },
+
+    {
+      heading: "27. Why Correct Classification Matters at the Beginning of a Dispute",
+      paragraphs: [
+        "Businesses sometimes focus immediately on drafting a legal notice.",
+        "However, the first stage should be legal classification.",
+        "A useful preliminary checklist is:",
+        "Question 1 — What is the underlying transaction?",
+        "Question 2 — Does it fall within Section 2(1)(c)?",
+        "Question 3 — What relief is being claimed?",
+        "Question 4 — What is the specified value?",
+        "Question 5 — Which court has territorial jurisdiction?",
+        "Question 6 — Which court has pecuniary jurisdiction?",
+        "Question 7 — Is there an arbitration agreement?",
+        "Question 8 — Does another statute confer jurisdiction on a specialised tribunal?",
+        "Question 9 — Is Section 12A applicable?",
+        "Question 10 — Is the claim within limitation?",
+        "Only after answering these questions should the litigation route normally be finalised."
+      ]
+    },
+
+    {
+      heading: "28. Practical Examples",
+      paragraphs: [
+        "Example 1: Unpaid Supply Invoice",
+        "A manufacturer supplies goods worth ₹2 crore to a company.",
+        "The buyer accepts the goods but does not pay.",
+        "The dispute arises from an ordinary commercial transaction and may qualify as a commercial dispute, subject to the applicable statutory requirements.",
+        "Example 2: Personal Loan Between Friends",
+        "An individual lends money to a friend for personal purposes.",
+        "The borrower fails to repay.",
+        "Although money is involved, the transaction is not necessarily commercial merely because repayment is sought through legal proceedings.",
+        "The nature of the underlying transaction must be examined.",
+        "Example 3: Commercial Lease",
+        "A company leases premises exclusively for operating its business.",
+        "A dispute arises concerning contractual obligations under the lease.",
+        "The statutory requirements concerning commercial immovable property and the nature of the dispute must be examined.",
+        "Example 4: Construction Contract",
+        "A developer engages a contractor for construction of a commercial complex.",
+        "The parties dispute delay and payment.",
+        "This is a typical example of a dispute potentially falling within the commercial-dispute framework.",
+        "Example 5: Shareholder Deadlock",
+        "Two shareholders disagree over management of a company.",
+        "The dispute may involve:",
+        "• shareholders' contractual rights;",
+        "• Companies Act remedies;",
+        "• arbitration;",
+        "• NCLT jurisdiction; or",
+        "• commercial-court jurisdiction.",
+        "The correct forum depends on the precise relief and legal basis of the claim.",
+        "Example 6: Trademark Infringement",
+        "A business discovers that a competitor is using a deceptively similar trademark.",
+        "The business seeks an injunction and damages.",
+        "The dispute may fall within the commercial-dispute framework and may also require urgent interim relief."
+      ]
+    },
+
+    {
+      heading: "29. How Courts Determine Whether a Dispute Is Commercial",
+      paragraphs: [
+        "Courts generally focus on the substance of the dispute and the statutory definition rather than merely the terminology used by the parties.",
+        "The court may examine:",
+        "• the underlying transaction;",
+        "• contractual documents;",
+        "• nature of the rights asserted;",
+        "• relief claimed;",
+        "• commercial purpose;",
+        "• statutory provisions;",
+        "• pleadings; and",
+        "• surrounding circumstances.",
+        "A party cannot necessarily convert an ordinary civil dispute into a commercial dispute merely by describing it as one in the plaint."
+      ]
+    },
+
+    {
+      heading: "30. The Importance of the Relief Claimed",
+      paragraphs: [
+        "The relief sought may be important in determining the nature and valuation of the proceedings.",
+        "For example, a claimant may seek:",
+        "• recovery of money;",
+        "• damages;",
+        "• injunction;",
+        "• specific performance;",
+        "• declaration;",
+        "• possession;",
+        "• enforcement of contractual rights; or",
+        "• a combination of remedies.",
+        "The court may need to examine both the underlying transaction and the relief claimed."
+      ]
+    },
+
+    {
+      heading: "31. Commercial Dispute and Multiple Causes of Action",
+      paragraphs: [
+        "Complex business disputes may involve several causes of action.",
+        "For example, a dispute may involve:",
+        "• breach of contract;",
+        "• wrongful termination;",
+        "• non-payment;",
+        "• misuse of intellectual property;",
+        "• confidentiality breach; and",
+        "• damages.",
+        "The pleading should clearly identify the legal basis for each claim.",
+        "Where multiple statutory regimes or forums are involved, careful analysis is necessary to avoid procedural complications."
+      ]
+    },
+
+    {
+      heading: "32. What Businesses Should Do When a Commercial Dispute Arises",
+      paragraphs: [
+        "A business should consider taking the following steps.",
+        "Step 1: Preserve evidence",
+        "Immediately secure relevant:",
+        "• contracts;",
+        "• emails;",
+        "• messages;",
+        "• invoices;",
+        "• bank records;",
+        "• accounting data;",
+        "• technical records; and",
+        "• internal communications.",
+        "Step 2: Review the contract",
+        "Check:",
+        "• obligations;",
+        "• termination;",
+        "• indemnity;",
+        "• limitation of liability;",
+        "• dispute resolution;",
+        "• arbitration;",
+        "• jurisdiction;",
+        "• governing law.",
+        "Step 3: Identify the cause of action",
+        "Determine exactly what contractual or statutory right has been violated.",
+        "Step 4: Calculate the claim",
+        "Quantify:",
+        "• principal;",
+        "• interest;",
+        "• damages;",
+        "• contractual amounts;",
+        "• costs; and",
+        "• other recoverable sums.",
+        "Step 5: Check limitation",
+        "Do not allow a potentially valid claim to become time-barred.",
+        "Step 6: Determine whether the dispute is commercial",
+        "Apply Section 2(1)(c).",
+        "Step 7: Determine specified value",
+        "Calculate the statutory value carefully.",
+        "Step 8: Identify the correct forum",
+        "Consider:",
+        "• Commercial Court;",
+        "• High Court;",
+        "• NCLT;",
+        "• DRT;",
+        "• arbitration;",
+        "• MSME mechanisms;",
+        "• RERA; or",
+        "• another specialised forum.",
+        "Step 9: Consider mediation",
+        "Assess Section 12A and other mediation mechanisms.",
+        "Step 10: Develop the litigation strategy",
+        "Determine whether the commercial objective is:",
+        "• recovery;",
+        "• injunction;",
+        "• damages;",
+        "• enforcement;",
+        "• settlement;",
+        "• protection of business operations; or",
+        "• another outcome."
+      ]
+    },
+
+    {
+      heading: "33. Common Mistakes in Identifying Commercial Disputes",
+      paragraphs: [
+        "Mistake 1: Assuming every company dispute is commercial",
+        "The parties' corporate status is not determinative.",
+        "Mistake 2: Assuming every contract dispute is commercial",
+        "The underlying transaction must satisfy the statutory definition.",
+        "Mistake 3: Ignoring specified value",
+        "Classification alone does not determine commercial-court jurisdiction.",
+        "Mistake 4: Ignoring specialised tribunals",
+        "NCLT, DRT, RERA and other statutory forums may have jurisdiction over particular disputes.",
+        "Mistake 5: Ignoring arbitration",
+        "A contractual arbitration clause may fundamentally change the dispute-resolution strategy.",
+        "Mistake 6: Ignoring Section 12A",
+        "Applicable commercial disputes may require pre-institution mediation.",
+        "Mistake 7: Failing to assess urgency",
+        "A genuine need for urgent interim relief can affect the pre-institution process."
+      ]
+    },
+
+    {
+      heading: "34. Frequently Asked Questions",
+      paragraphs: [
+        "What is a commercial dispute under Indian law?",
+        "A commercial dispute is a dispute arising from a commercial transaction or relationship falling within the statutory definition contained in Section 2(1)(c) of the Commercial Courts Act, 2015.",
+        "Is every dispute between two companies a commercial dispute?",
+        "No. The nature of the underlying transaction and the statutory definition must be examined.",
+        "Is every contract dispute a commercial dispute?",
+        "No. The underlying transaction must fall within the statutory categories or otherwise satisfy the statutory definition.",
+        "Can an individual be a party to a commercial dispute?",
+        "Yes. The identity of the party is not by itself determinative. The nature of the transaction is important.",
+        "What are examples of commercial disputes?",
+        "Examples include disputes concerning supply contracts, distribution agreements, construction contracts, shareholder agreements, joint ventures, licensing, intellectual property, insurance and other commercial transactions recognised by law.",
+        "Does a commercial dispute have to be filed before a Commercial Court?",
+        "Not necessarily. The appropriate forum depends on jurisdiction, specified value, subject matter, arbitration agreements and other applicable statutes.",
+        "Is arbitration available for a commercial dispute?",
+        "It may be, if a valid arbitration agreement applies and the dispute is legally arbitrable.",
+        "Is pre-institution mediation required?",
+        "Section 12A provides for pre-institution mediation in applicable commercial disputes where urgent interim relief is not contemplated, subject to the statutory framework and judicial interpretation.",
+        "What is specified value?",
+        "Specified value is the statutory valuation concept used under the Commercial Courts Act to determine whether a commercial dispute falls within the specified-value threshold.",
+        "Can an NCLT dispute also be a commercial dispute?",
+        "The underlying facts may involve commercial transactions, but the question of forum depends on the precise nature of the dispute and the statutory jurisdiction of the NCLT.",
+        "Are intellectual property disputes commercial disputes?",
+        "Intellectual property disputes are expressly recognised within the statutory commercial-dispute framework, subject to the applicable requirements."
+      ]
+    },
+
+    {
+      heading: "35. Key Takeaways",
+      paragraphs: [
+        "The most important points for businesses are:",
+        "1. A commercial dispute is defined by statute.",
+        "2. Section 2(1)(c) of the Commercial Courts Act is central to classification.",
+        "3. The identity of the parties is not enough to establish a commercial dispute.",
+        "4. The underlying transaction is critical.",
+        "5. Not every contractual dispute is commercial.",
+        "6. Construction, infrastructure, distribution, licensing, joint venture, shareholder, IP and insurance disputes can fall within the statutory definition.",
+        "7. Specified value must be separately examined.",
+        "8. Territorial and pecuniary jurisdiction must be established.",
+        "9. Arbitration clauses must be reviewed before filing a suit.",
+        "10. Specialised forums such as NCLT, DRT and RERA may need to be considered.",
+        "11. Section 12A may require pre-institution mediation.",
+        "12. The correct classification should be determined at the beginning of the litigation strategy."
+      ]
+    },
+
+    {
+      heading: "Conclusion",
+      paragraphs: [
+        "The expression \"commercial dispute\" has a specific legal significance under Indian law. Section 2(1)(c) of the Commercial Courts Act, 2015 provides a broad statutory framework covering numerous forms of business transactions and relationships.",
+        "At the same time, the mere presence of a company, a contract or a monetary claim does not automatically make a dispute commercial.",
+        "The correct analysis begins with the substance of the transaction and the nature of the rights in dispute.",
+        "For businesses, this classification can have significant consequences. It may affect the applicable procedural regime, the court in which proceedings should be instituted, specified-value requirements, pre-institution mediation, disclosure obligations, case management and appellate remedies.",
+        "A prudent approach is therefore:",
+        "Identify the transaction → identify the legal right → classify the dispute → calculate specified value → determine jurisdiction → examine arbitration and specialised forums → assess Section 12A → select the appropriate remedy.",
+        "Commercial litigation should be approached strategically from the very beginning. Correctly identifying the nature of the dispute can prevent jurisdictional objections, procedural delays and unnecessary litigation costs while helping the business choose the most effective legal route."
+      ]
+    },
+
+    {
+      heading: "Related Articles",
+      paragraphs: [
+        "• Commercial Litigation in India: Complete Guide for Businesses",
+        "• Commercial Courts in India: Jurisdiction, Procedure and Powers",
+        "• Section 12A of the Commercial Courts Act: Is Pre-Institution Mediation Mandatory?",
+        "• Specified Value Under the Commercial Courts Act: Complete Guide",
+        "• How to File a Commercial Suit in India: Step-by-Step Guide",
+        "• Commercial Litigation vs Arbitration: Which Is Better for Businesses?",
+        "• Summary Suits for Recovery of Commercial Debts in India",
+        "• Interim Injunctions in Commercial Litigation: When Can a Business Obtain One?"
+      ]
+    },
+
+    {
+      heading: "Disclaimer",
+      paragraphs: [
+        "This article is intended for general informational and educational purposes only and does not constitute legal advice. The application and interpretation of law depend on the facts and circumstances of each matter. Statutes, rules, regulations and judicial decisions may change. Readers should obtain appropriate professional legal advice before taking action in relation to a specific dispute."
+      ]
+    }
+  ]
+},
 ]
 export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((article) => article.slug === slug)
