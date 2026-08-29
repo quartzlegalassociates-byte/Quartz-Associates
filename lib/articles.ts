@@ -2791,20 +2791,6 @@ export const articles: Article[] = [
     },
 
     {
-      heading: "Related Articles",
-      paragraphs: [
-        "• Commercial Litigation in India: Complete Guide for Businesses",
-        "• Commercial Courts in India: Jurisdiction, Procedure and Powers",
-        "• Section 12A of the Commercial Courts Act: Is Pre-Institution Mediation Mandatory?",
-        "• Specified Value Under the Commercial Courts Act: Complete Guide",
-        "• How to File a Commercial Suit in India: Step-by-Step Guide",
-        "• Commercial Litigation vs Arbitration: Which Is Better for Businesses?",
-        "• Summary Suits for Recovery of Commercial Debts in India",
-        "• Interim Injunctions in Commercial Litigation: When Can a Business Obtain One?"
-      ]
-    },
-
-    {
       heading: "Disclaimer",
       paragraphs: [
         "This article is intended for general informational and educational purposes only and does not constitute legal advice. The application and interpretation of law depend on the facts and circumstances of each matter. Statutes, rules, regulations and judicial decisions may change. Readers should obtain appropriate professional legal advice before taking action in relation to a specific dispute."
