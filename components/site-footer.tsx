@@ -51,8 +51,8 @@ export function SiteFooter() {
               <br />
               New Delhi 110024, India
               <br />
-              <a href="mailto:abhishek.kumar2015c@gmail.com" className="hover:text-accent">
-                abhishek.kumar2015c@gmail.com
+              <a href="mailto:abhishek.kumar@quartzlegalassociates.in" className="hover:text-accent">
+                abhishek.kumar@quartzlegalassociates.in
               </a>
               <br />
               <a href="tel:+917676909742" className="hover:text-accent">
